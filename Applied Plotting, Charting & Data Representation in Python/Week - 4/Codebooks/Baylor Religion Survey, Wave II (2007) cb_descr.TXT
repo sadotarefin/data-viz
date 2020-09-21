@@ -1,0 +1,1298 @@
+Data File: BAYLORW2(Description Only Codebook)
+
+1) ID
+Respondent's identification number
+
+
+2) WEIGHT
+Weight variable
+
+
+3) REGION
+Region where the respondent lives
+
+
+4) RELIG1
+Q1a. With what religious family do you most closely identify?
+
+
+5) RELIG2
+Q1b. With what religious family do you most closely identify? Additional coded answers
+
+
+6) DENOM
+Q2. If possible, please provide the specific name of your denomination. For example, if you are Baptist, are you Southern Baptist Convention, American Baptist Churches in the USA, or some other Baptist denomination? If you are Jewish, are you Reformed, Orthodox, Conservative, or some other branch of Judaism?
+
+
+7) RELGIOUS
+Q3. How religious do you consider yourself to be?
+
+
+8) ATTEND
+Q4. How often do you attend religious services?
+
+
+9) HOWLONG
+Q7. How long have you attended your current place of worship?
+
+
+10) HOWMANY
+Q8. On average, how many people attend services at your current place of worship? Just your best estimate will do.
+
+
+11) PERCWHT
+Q9a. About what percent of the people who attend your current place of worship are of the following races or ethnicities? (Please estimate a percentage for each.) White (non-Hispanic)
+
+
+12) PERCHISP
+Q9b. About what percent of the people who attend your current place of worship are of the following races or ethnicities? (Please estimate a percentage for each.) Hispanic
+
+
+13) PERCBLK
+Q9c. About what percent of the people who attend your current place of worship are of the following races or ethnicities? (Please estimate a percentage for each.) Black or African-American
+
+
+14) PERCASN
+Q9d. About what percent of the people who attend your current place of worship are of the following races or ethnicities? (Please estimate a percentage for each.) Asian
+
+
+15) ATTENDO
+Q9e. About what percent of the people who attend your current place of worship are of the following races or ethnicities? (Please estimate a percentage for each.) Some other race or ethnicity
+
+
+16) TITHE
+Q10. Do you tithe (give a fixed percentage of your income) to your current place of worship?
+
+
+17) HHCONTRB
+Q11. During the last year, approximately how much money did you and other family members in your household contribute to your current place of worship?
+
+
+18) PORN
+Q12a. By your best guess, how would your current place of worship feel about each of the following behaviors? Pornography
+
+
+19) GAMBLING
+Q12b. By your best guess, how would your current place of worship feel about each of the following behaviors? Gambling
+
+
+20) REVEAL
+Q12c. By your best guess, how would your current place of worship feel about each of the following behaviors? Wearing revealing clothing
+
+
+21) PREMARSX
+Q12d. By your best guess, how would your current place of worship feel about each of the following behaviors? Premarital sex
+
+
+22) COHABIT
+Q12e. By your best guess, how would your current place of worship feel about each of the following behaviors? Living together before marriage
+
+
+23) CONTRA
+Q12f. By your best guess, how would your current place of worship feel about each of the following behaviors? Use of contraception
+
+
+24) ABORTION
+Q12g. By your best guess, how would your current place of worship feel about each of the following behaviors? Abortion
+
+
+25) HOMOSEX
+Q12h. By your best guess, how would your current place of worship feel about each of the following behaviors? Homosexual behavior
+
+
+26) DISPWLTH
+Q12i. By your best guess, how would your current place of worship feel about each of the following behaviors? Displays of wealth
+
+
+27) FRNDWSHP
+Q13a. How many of your friends attend your place of worship?
+
+
+28) FRNDDIFF
+Q13b. How many of your friends attend a different place of worship?
+
+
+29) FRNDDONT
+Q13c. How many of your friends do not attend religious services?
+
+
+30) RELIGED
+Q14a. How often did you participate in the following religious or faith-based activities in the last month? Religious education programs, such as Bible study or Sunday school
+
+
+31) CHOIR
+Q14b. How often did you participate in the following religious or faith-based activities in the last month? Choir practice or other musical programs
+
+
+32) COUNSEL
+Q14c. How often did you participate in the following religious or faith-based activities in the last month? Counseling programs sponsored by a place of worship
+
+
+33) SOCIAL
+Q14d. How often did you participate in the following religious or faith-based activities in the last month? Social gatherings at your place of worship like fellowships or potlucks
+
+
+34) WTNSSFR
+Q14e. How often did you participate in the following religious or faith-based activities in the last month? Witnessing/sharing your faith with friends
+
+
+35) WTNSSST
+Q14f. How often did you participate in the following religious or faith-based activities in the last month? Witnessing/sharing your faith with strangers
+
+
+36) COMMPRAY
+Q14g. How often did you participate in the following religious or faith-based activities in the last month? Community prayer group not affiliated or sponsored by a congregation (e.g., in the neighborhood, at work, etc.)
+
+
+37) COMMBIBL
+Q14h. How often did you participate in the following religious or faith-based activities in the last month? Community Bible study not affiliated or sponsored by a congregation (e.g., in the community or workplace)
+
+
+38) FBPROGRM
+Q14i. How often did you participate in the following religious or faith-based activities in the last month? Faith-based programs not affiliated or sponsored by a congregation (e.g., prison ministry, homeless shelter, etc.)
+
+
+39) OTHERREL
+Q14j. How often did you participate in the following religious or faith-based activities in the last month? Other kinds of religious or faith-based activities (please specify)
+
+
+40) BIBLEBEL
+Q15a. How well do the following terms describe your religious identity? Bible-Believing
+
+
+41) BORNAGN
+Q15b. How well do the following terms describe your religious identity? Born-Again
+
+
+42) CHARISMA
+Q15c. How well do the following terms describe your religious identity? Charismatic
+
+
+43) CONTMPLT
+Q15d. How well do the following terms describe your religious identity? Contemplative
+
+
+44) EVANGEL
+Q15e. How well do the following terms describe your religious identity? Evangelical
+
+
+45) FUNDAMEN
+Q15f. How well do the following terms describe your religious identity? Fundamentalist
+
+
+46) MAINLINE
+Q15g. How well do the following terms describe your religious identity? Mainline Christian
+
+
+47) MYSTIC
+Q15h. How well do the following terms describe your religious identity? Mystic
+
+
+48) PENTECST
+Q15i. How well do the following terms describe your religious identity? Pentecostal
+
+
+49) RELLEFT
+Q15j. How well do the following terms describe your religious identity? Religious Left
+
+
+50) RELRIGHT
+Q15k. How well do the following terms describe your religious identity? Religious Right
+
+
+51) SEEKER
+Q15l. How well do the following terms describe your religious identity? Seeker
+
+
+52) SPIRIT
+Q15m. How well do the following terms describe your religious identity? Spiritual
+
+
+53) THEOCON
+Q15n. How well do the following terms describe your religious identity? Theologically Conservative
+
+
+54) THEOLIB
+Q15o. How well do the following terms describe your religious identity? Theologically Liberal
+
+
+55) TRADIT
+Q15p. How well do the following terms describe your religious identity? Traditional
+
+
+56) SACREDBK
+Q16. Outside of attending religious services, about how often do you read the Bible, Koran, Torah, or other sacred book?
+
+
+57) PRAY
+Q17. About how often do you pray or meditate outside of religious services?
+
+
+58) BIBLE
+Q18. Which one statement comes closest to your personal beliefs about the Bible? (Please mark only one box.)
+
+
+59) GOD
+Q19. Which one statement comes closest to your personal beliefs about God? (Please mark only one box.)
+
+
+60) GODFORCE
+Q20a. Based on your personal understanding, what do you think God is like? A cosmic force in the universe
+
+
+61) GODREMOV
+Q20b. Based on your personal understanding, what do you think God is like? Removed from worldly affairs
+
+
+62) GODWORLD
+Q20c. Based on your personal understanding, what do you think God is like? Concerned with the well-being of the world
+
+
+63) GODPERS
+Q20d. Based on your personal understanding, what do you think God is like? Concerned with my personal well-being
+
+
+64) GODANGER
+Q20e. Based on your personal understanding, what do you think God is like? Angered by human sin
+
+
+65) GODMYSIN
+Q20f. Based on your personal understanding, what do you think God is like? Angered by my sins
+
+
+66) GODINVLV
+Q20g. Based on your personal understanding, what do you think God is like? Directly involved in worldly affairs
+
+
+67) GODMYAFF
+Q20h. Based on your personal understanding, what do you think God is like? Directly involved in my affairs
+
+
+68) GODMALE
+Q20i. Based on your personal understanding, what do you think God is like? A 'He'
+
+
+69) GODABSOL
+Q21a. How well do you feel that each of the following words describe God in your opinion? Absolute
+
+
+70) GODCRIT
+Q21b. How well do you feel that each of the following words describe God in your opinion? Critical
+
+
+71) GODDIST
+Q21c. How well do you feel that each of the following words describe God in your opinion? Distant
+
+
+72) GODPRES
+Q21d. How well do you feel that each of the following words describe God in your opinion? Ever-present
+
+
+73) GODFTHR
+Q21e. How well do you feel that each of the following words describe God in your opinion? Fatherly
+
+
+74) GODFORGV
+Q21f. How well do you feel that each of the following words describe God in your opinion? Forgiving
+
+
+75) GODFRND
+Q21g. How well do you feel that each of the following words describe God in your opinion? Friendly
+
+
+76) GODJUST
+Q21h. How well do you feel that each of the following words describe God in your opinion? Just
+
+
+77) GODKIND
+Q21i. How well do you feel that each of the following words describe God in your opinion? Kind
+
+
+78) GODKING
+Q21j. How well do you feel that each of the following words describe God in your opinion? Kingly
+
+
+79) GODLOVNG
+Q21k. How well do you feel that each of the following words describe God in your opinion? Loving
+
+
+80) GODMTHR
+Q21l. How well do you feel that each of the following words describe God in your opinion? Motherly
+
+
+81) GODPUNSH
+Q21m. How well do you feel that each of the following words describe God in your opinion? Punishing
+
+
+82) GODSEVER
+Q21n. How well do you feel that each of the following words describe God in your opinion? Severe
+
+
+83) GODWRATH
+Q21o. How well do you feel that each of the following words describe God in your opinion? Wrathful
+
+
+84) GODMAJOR
+Q22a. To what extent do you agree or disagree with the following statements about God? God rewards the faithful with major successes
+
+
+85) GODSMALL
+Q22b. To what extent do you agree or disagree with the following statements about God? God rewards the faithful in small ways (such as helping to find lost keys or fight off a cold)
+
+
+86) GODWOES
+Q22c. To what extent do you agree or disagree with the following statements about God? God punishes sinners with terrible woes
+
+
+87) GODPUNSM
+Q22d. To what extent do you agree or disagree with the following statements about God? God punishes sinners in small ways (such as losing a promotion or getting into a minor accident)
+
+
+88) GODRESRV
+Q22e. To what extent do you agree or disagree with the following statements about God? God reserves his judgment for the afterlife
+
+
+89) GODSHOW
+Q22f. To what extent do you agree or disagree with the following statements about God? God clearly shows us the difference between right and wrong
+
+
+90) GODWAR
+Q22g. To what extent do you agree or disagree with the following statements about God? God requires the faithful to wage wars for good
+
+
+91) GODALLOW
+Q22h. To what extent do you agree or disagree with the following statements about God? God sometimes allows major tragedies to occur as a warning to sinners
+
+
+92) GODCAUSE
+Q22i. To what extent do you agree or disagree with the following statements about God? God causes major tragedies to occur as a warning to sinners
+
+
+93) GODMIRAC
+Q22j. To what extent do you agree or disagree with the following statements about God? God often performs miracles which defy the laws of nature
+
+
+94) DEVIL
+Q23a. In your opinion, does each of the following exist? The Devil/Satan
+
+
+95) HEAVEN
+Q23b. In your opinion, does each of the following exist? Heaven
+
+
+96) HELL
+Q23c. In your opinion, does each of the following exist? Hell
+
+
+97) PURGATRY
+Q23d. In your opinion, does each of the following exist? Purgatory
+
+
+98) ARMAGEDD
+Q23e. In your opinion, does each of the following exist? Armageddon
+
+
+99) ANGELS
+Q23f. In your opinion, does each of the following exist? Angels
+
+
+100) DEMONS
+Q23g. In your opinion, does each of the following exist? Demons
+
+
+101) RAPTURE
+Q23h. In your opinion, does each of the following exist? The Rapture
+
+
+102) GHOST
+Q23i. In your opinion, does each of the following exist? Ghosts
+
+
+103) ET
+Q23j. In your opinion, does each of the following exist? Extraterrestrials
+
+
+104) BIGFOOT
+Q23k. In your opinion, does each of the following exist? Bigfoot
+
+
+105) PSYCHIC
+Q23l. In your opinion, does each of the following exist? Psychic phenomena, such as ESP
+
+
+106) GETHEAV
+Q24. How certain are you that you will get into Heaven?
+
+
+107) GETAVAMR
+Q25a. If you believe in Heaven, how many of the following people do you think will get into Heaven? Average Americans
+
+
+108) GETFRND
+Q25b. If you believe in Heaven, how many of the following people do you think will get into Heaven? Your personal friends
+
+
+109) GETNGHB
+Q25c. If you believe in Heaven, how many of the following people do you think will get into Heaven? Your neighbors
+
+
+110) GETFAM
+Q25d. If you believe in Heaven, how many of the following people do you think will get into Heaven? Family members
+
+
+111) GETCHRST
+Q25e. If you believe in Heaven, how many of the following people do you think will get into Heaven? Christians
+
+
+112) GETBUDDH
+Q25f. If you believe in Heaven, how many of the following people do you think will get into Heaven? Buddhists
+
+
+113) GETMUSLM
+Q25g. If you believe in Heaven, how many of the following people do you think will get into Heaven? Muslims
+
+
+114) GETJEWS
+Q25h. If you believe in Heaven, how many of the following people do you think will get into Heaven? Jews
+
+
+115) GETNONRL
+Q25f. If you believe in Heaven, how many of the following people do you think will get into Heaven? Non-religious people
+
+
+116) WITNHEAL
+Q26a. Please indicate whether or not you have ever had any of the following experiences: I witnessed a miraculous, physical healing
+
+
+117) RECHEAL
+Q26b. Please indicate whether or not you have ever had any of the following experiences: I received a miraculous, physical healing
+
+
+118) TONGUES
+Q26c. Please indicate whether or not you have ever had any of the following experiences: I spoke or prayed in tongues
+
+
+119) FELTCALL
+Q26d. Please indicate whether or not you have ever had any of the following experiences: I felt called by God to do something
+
+
+120) HEARDGOD
+Q26e. Please indicate whether or not you have ever had any of the following experiences: I heard the voice of God speaking to me
+
+
+121) DREAMREL
+Q26f. Please indicate whether or not you have ever had any of the following experiences: I had a dream of religious significance
+
+
+122) GUARDIAN
+Q26g. Please indicate whether or not you have ever had any of the following experiences: I was protected from harm by a guardian angel
+
+
+123) RELCONV
+Q26h. Please indicate whether or not you have ever had any of the following experiences: I had a religious conversion experience
+
+
+124) ONEUNIV
+Q26i. Please indicate whether or not you have ever had any of the following experiences: I felt at one with the universe
+
+
+125) EVILDEVL
+Q27a. Please indicate your level of agreement with the following statements about evil in the world: Most evil in the world is caused by the Devil
+
+
+126) EVILMAN
+Q27b. Please indicate your level of agreement with the following statements about evil in the world: Most evil in the world is caused by mankind
+
+
+127) POSSESS
+Q27c. Please indicate your level of agreement with the following statements about evil in the world: It is possible for people to be possessed by the Devil/demons
+
+
+128) EVILDOUB
+Q27d. Please indicate your level of agreement with the following statements about evil in the world: Evil in the world has caused me to doubt my faith
+
+
+129) HUMANEVL
+Q27e. Please indicate your level of agreement with the following statements about evil in the world: Human nature is basically evil
+
+
+130) ROOTEVIL
+Q27f. Please indicate your level of agreement with the following statements about evil in the world: Love of money is the root of all evil
+
+
+131) PARANORM
+Q27g. Please indicate your level of agreement with the following statements about evil in the world: Certain paranormal phenomena (such as UFOs and Ouija boards) are the work of the Devil
+
+
+132) KEPTFROM
+Q28a. Please indicate your level of agreement with the following statements: I have kept my religious beliefs from others for fear of ridicule
+
+
+133) RELPROBS
+Q28b. Please indicate your level of agreement with the following statements: My religious beliefs have caused problems in my workplace
+
+
+134) RELTROUB
+Q28c. Please indicate your level of agreement with the following statements: I tend to have trouble maintaining close relationships because of my religious beliefs
+
+
+135) RELMISS
+Q28d. Please indicate your level of agreement with the following statements: Because of my religious devotion I have missed financial opportunities
+
+
+136) BELFAMLY
+Q28e. Please indicate your level of agreement with the following statements: My family members and I disagree about religious matters
+
+
+137) RELRIDIC
+Q28f. Please indicate your level of agreement with the following statements: My religious views are often ridiculed by the media
+
+
+138) XMASTREE
+Q29. Do you regularly put up a Christmas tree during the holidays?
+
+
+139) SANTA
+Q30. At what age did you stop believing in Santa Claus?
+
+
+140) RELFATHR
+Q31a. Please indicate the religious affiliation of your father, mother, and spouse (if married). (Please mark only one box.) Father
+
+
+141) RELMOTHR
+Q31b. Please indicate the religious affiliation of your father, mother, and spouse (if married). (Please mark only one box.) Mother
+
+
+142) RELSPOUS
+Q31c. Please indicate the religious affiliation of your father, mother, and spouse (if married). (Please mark only one box for.) Spouse
+
+
+143) RELIG12
+Q32. How personally religious were you at age 12?
+
+
+144) ATTEND12
+Q33. By your best estimate, how often did you attend religious services at age 12?
+
+
+145) ABRTRAPE
+Q34a. How do you feel about the morality of the following? Abortion, if the pregnancy is the result of rape
+
+
+146) ABRTAFF
+Q34b How do you feel about the morality of the following? Abortion, if the family cannot afford the child
+
+
+147) DIVNOKID
+Q34c. How do you feel about the morality of the following? Divorce, if the couple does not have children
+
+
+148) DIVCHLD
+Q34d. How do you feel about the morality of the following? Divorce, if children are present
+
+
+149) MARIJUAN
+Q34e. How do you feel about the morality of the following? The use of marijuana
+
+
+150) PHYSSUIC
+Q34f. How do you feel about the morality of the following? Physician-assisted suicide
+
+
+151) STEMCELL
+Q34g. How do you feel about the morality of the following? Embryonic stem cell research
+
+
+152) WAR
+Q34h. How do you feel about the morality of the following? War
+
+
+153) SEEKJUST
+Q35a. How important is it to do the following if one wishes to be a good person? Actively seek social and economic justice
+
+
+154) FAITHGOD
+Q35b. How important is it to do the following if one wishes to be a good person? Have faith in God
+
+
+155) CARESICK
+Q35c. How important is it to do the following if one wishes to be a good person? Take care of the sick and needy
+
+
+156) TEACHMRL
+Q35d. How important is it to do the following if one wishes to be a good person? Teach others your morals
+
+
+157) CONVOTHR
+Q35e. How important is it to do the following if one wishes to be a good person? Convert others to your religious faith
+
+
+158) SERVMIL
+Q35f. How important is it to do the following if one wishes to be a good person? Serve in the military
+
+
+159) USEFEWER
+Q35g. How important is it to do the following if one wishes to be a good person? Consume or use fewer goods
+
+
+160) CLIMCHNG
+Q36a. Please indicate your level of agreement with the following statements: If we do not change things dramatically global climate change will have disastrous effects
+
+
+161) EXHAUST
+Q36b. Please indicate your level of agreement with the following statements: If we do not change things dramatically we will exhaust the Earth's supply of coal, oil, and natural gas
+
+
+162) MRLDECAY
+Q36c. Please indicate your level of agreement with the following statements: If we do not change things dramatically we will witness the moral decay of our society
+
+
+163) ECONCOLL
+Q36d. Please indicate your level of agreement with the following statements: If we do not change things dramatically we will face economic collapse
+
+
+164) DESTROY
+Q36e. Please indicate your level of agreement with the following statements: If we do not change things dramatically we will destroy most of the plant and animal life on earth
+
+
+165) DEATHPEN
+Q37a. To what extent do you agree or disagree that the federal government should abolish the death penalty?
+
+
+166) CHRNATN
+Q37b. To what extent do you agree or disagree that the federal government should declare the United States a Christian nation?
+
+
+167) ENGLISH
+Q37c. To what extent do you agree or disagree that the federal government should declare English the national language?
+
+
+168) DISTRIB
+Q37d. To what extent do you agree or disagree that the federal government should distribute wealth more evenly?
+
+
+169) ADVOCHR
+Q37e. To what extent do you agree or disagree that the federal government should advocate Christian values?
+
+
+170) REGULATE
+Q37f. To what extent do you agree or disagree that the federal government should regulate business practices more closely?
+
+
+171) SEPARAT
+Q37g. To what extent do you agree or disagree that the federal government should enforce a strict separation of church and state?
+
+
+172) FIGHTTER
+Q37h. To what extent do you agree or disagree that the federal government should expand its authority to fight terrorism?
+
+
+173) PUNISH
+Q37i. To what extent do you agree or disagree that the federal government should punish criminals more harshly?
+
+
+174) GUNLAWS
+Q37j. To what extent do you agree or disagree that the federal government should enact stricter gun laws?
+
+
+175) IMPROVE
+Q37k. To what extent do you agree or disagree that the federal government should improve the standard of living for ethnic minorities?
+
+
+176) DISPREL
+Q37l. To what extent do you agree or disagree that the federal government should allow the display of religious symbols in public spaces?
+
+
+177) PRAYSCHL
+Q37m. To what extent do you agree or disagree that the federal government should allow prayer in public schools?
+
+
+178) SPNDENV
+Q38a. How do you feel about current government spending on the following? Improving and protecting the environment
+
+
+179) SPNDHLTH
+Q38b. How do you feel about current government spending on the following? Improving and protecting the nation's health
+
+
+180) SPNDCRIM
+Q38c. How do you feel about current government spending on the following? Halting the rising crime rate
+
+
+181) SPNDEDUC
+Q38d. How do you feel about current government spending on the following? Improving the nation's education system
+
+
+182) SPNDMIL
+Q38e. How do you feel about current government spending on the following? The military, armaments, and defense
+
+
+183) SPNDWELF
+Q38f. How do you feel about current government spending on the following? Welfare
+
+
+184) SPNDSCI
+Q38g. How do you feel about current government spending on the following? Supporting scientific research
+
+
+185) SPNDBRDR
+Q38h. How do you feel about current government spending on the following? Patrolling and controlling our borders
+
+
+186) GAYMARR
+Q39a. Please indicate your level of agreement with the following statements about homosexuals: Homosexuals should be allowed to marry
+
+
+187) GAYUNION
+Q39b. Please indicate your level of agreement with the following statements about homosexuals: Homosexuals should be allowed civil unions
+
+
+188) CHOOSE
+Q39c. Please indicate your level of agreement with the following statements about homosexuals: People choose to be homosexuals
+
+
+189) GAYBORN
+Q39d. Please indicate your level of agreement with the following statements about homosexuals: People are born as either homosexual or heterosexual
+
+
+190) IRAQWAR
+Q40a. Please indicate your level of agreement with the following statements about world events: Going to war in Iraq was the right decision
+
+
+191) TROOPS
+Q40b. Please indicate your level of agreement with the following statements about world events: We should bring American troops home from Iraq immediately
+
+
+192) GODSPLAN
+Q40c. Please indicate your level of agreement with the following statements about world events: The success of the United States is part of God's plan
+
+
+193) RELYSCI
+Q41a. Please indicate your level of agreement with the following statements about science: We rely too much on science and not enough on faith
+
+
+194) SCISOLUT
+Q41b. Please indicate your level of agreement with the following statements about science: Science will eventually provide the solutions to most of our problems
+
+
+195) GODSGLRY
+Q41c. Please indicate your level of agreement with the following statements about science: Science helps to reveal God's glory
+
+
+196) HUMNEVOL
+Q41d. Please indicate your level of agreement with the following statements about science: Humans evolved from other primates over millions of years
+
+
+197) CREATION
+Q41e. Please indicate your level of agreement with the following statements about science: Creationism should be taught in public schools
+
+
+198) SCIRELIG
+Q41f. Please indicate your level of agreement with the following statements about science: Science and religion are incompatible
+
+
+199) SCIHOSTL
+Q41g. Please indicate your level of agreement with the following statements about science: Most scientists are hostile to religion
+
+
+200) POLVIEWS
+Q42. How would you describe yourself politically? (Please mark only one box.)
+
+
+201) PARTYID
+Q43a. Do you think of yourself as Republican, Democrat, or Independent? (Please mark only one box.)
+
+
+202) PARTYID2
+Q43b. Do you think of yourself as Republican, Democrat, or Independent? (Please mark only one box.) Additional codes
+
+
+203) GROUPS
+Q44. We are all part of different groups. Some are more important to us than others when we think of ourselves. In general, which single item in the following list is most important to you in describing who you are? (Please mark only one box.)
+
+
+204) PRES08_1
+Q45a. At this time, who do you want to win the 2008 presidential election? (Please mark only one box.)
+
+
+205) PRES08_2
+Q45b. At this time, who do you want to win the 2008 presidential election? (Please mark only one box.) Additional codes
+
+
+206) VOTEFEM
+Q46. If your party nominated a woman for president, would you vote for her?
+
+
+207) VOTEMIN
+Q47. If your party nominated a member of a racial minority for President, would you vote for him or her?
+
+
+208) WORKWHT
+Q48a. If you are currently employed, how many of the people you work with are white, non-Hispanic?
+
+
+209) WORKBLK
+Q48b. If you are currently employed, how many of the people you work with are black or African American?
+
+
+210) WORKHSP
+Q48c. If you are currently employed, how many of the people you work with are Hispanic or Latino?
+
+
+211) WORKASN
+Q48d. If you are currently employed, how many of the people you work with are Asian?
+
+
+212) NGHBWHT
+Q49a. How many people in your neighborhood are white, non-Hispanic?
+
+
+213) NGHBBLK
+Q49b. How many people in your neighborhood are black or African American?
+
+
+214) NGHBHISP
+Q49c. How many people in your neighborhood are Hispanic or Latino?
+
+
+215) NGHBASN
+Q49d. How many people in your neighborhood are Asian?
+
+
+216) FRNDWHT
+Q50a. How many of your close friends are white, non-Hispanic?
+
+
+217) FRNDBLK
+Q50b. How many of your close friends are black or African-American?
+
+
+218) FRNDHISP
+Q50c. How many of your close friends are Hispanic or Latino?
+
+
+219) FRNDASN
+Q50d. How many of your close friends are Asian?
+
+
+220) CMFRTWHT
+Q51a. How comfortable would you be working with someone who is white, non-Hispanic?
+
+
+221) CMFRTBLK
+Q51b. How comfortable would you be working with someone who is black or African-American?
+
+
+222) CMFRTHSP
+Q51c. How comfortable would you be working with someone who is Hispanic or Latino?
+
+
+223) CMFRTASN
+Q51d. How comfortable would you be working with someone who is Asian?
+
+
+224) MOVEDWHT
+Q52a. How comfortable would you be if a family moved next door to you with about the same income and education as you and is white, non-Hispanic?
+
+
+225) MOVEDBLK
+Q52b How comfortable would you be if a family moved next door to you with about the same income and education as you and is black or African-American?
+
+
+226) MOVEDHSP
+Q52c. How comfortable would you be if a family moved next door to you with about the same income and education as you and is Hispanic or Latino?
+
+
+227) MOVEDASN
+Q52d. How comfortable would you be if a family moved next door to you with about the same income and education as you and is Asian?
+
+
+228) BRINGWHT
+Q53a. How comfortable would you be if a member of your family wanted to bring a friend home to dinner who is white, non-Hispanic?
+
+
+229) BRINGBLK
+Q53b. How comfortable would you be if a member of your family wanted to bring a friend home to dinner who is black or African-American?
+
+
+230) BRINGHSP
+Q53c. How comfortable would you be if a member of your family wanted to bring a friend home to dinner who is Hispanic or Latino?
+
+
+231) BRINGASN
+Q53d. How comfortable would you be if a member of your family wanted to bring a friend home to dinner who is Asian?
+
+
+232) MARRYWHT
+Q54a. How comfortable would you be if a daughter of yours married someone who is white, non-Hispanic?
+
+
+233) MARRYBLK
+Q54b. How comfortable would you be if a daughter of yours married someone who is black or African American?
+
+
+234) MARRYHSP
+Q54c. How comfortable would you be if a daughter of yours married someone who is Hispanic or Latino?
+
+
+235) MARRYASN
+Q54d. How comfortable would you be if a daughter of yours married someone who is Asian?
+
+
+236) DATERACE
+Q55. Have you ever dated or been romantically involved with a person of another race?
+
+
+237) TRUSTPPL
+Q56a. How much would you say that you trust the following people or groups? People in general
+
+
+238) TRUSTIMM
+Q56b. How much would you say that you trust the following people or groups? Immigrants
+
+
+239) TRUSTWHT
+Q56c. How much would you say that you trust the following people or groups? White, non-Hispanics
+
+
+240) TRUSTBLK
+Q56d. How much would you say that you trust the following people or groups? Blacks or African Americans
+
+
+241) TRUSTHSP
+Q56e How much would you say that you trust the following people or groups? Hispanics or Latinos
+
+
+242) TRUSTJEW
+Q56f. How much would you say that you trust the following people or groups? Jews
+
+
+243) TRUSTCHR
+Q56g. How much would you say that you trust the following people or groups? Christians
+
+
+244) MARITAL
+Q57. What is your current marital status?
+
+
+245) HAPPYUND
+Q58a. If you are married or living as married, please indicate how happy you are with certain aspects of your home life and relationship with your partner or spouse: The amount of understanding you receive from your partner/spouse
+
+
+246) HAPPYLOV
+Q58b. If you are married or living as married, please indicate how happy you are with certain aspects of your home life and relationship with your partner or spouse: The amount of love and affection you receive from you partner/spouse
+
+
+247) HAPPYAGR
+Q58c. If you are married or living as married, please indicate how happy you are with certain aspects of your home life and relationship with your partner or spouse: The extent to which you and your partner/spouse agree about things
+
+
+248) HAPPYSEX
+Q58d. If you are married or living as married, please indicate how happy you are with certain aspects of your home life and relationship with your partner or spouse: Your sexual relationship
+
+
+249) HAPPYBRD
+Q58e. If you are married or living as married, please indicate how happy you are with certain aspects of your home life and relationship with your partner or spouse: Your partner's/spouse's performance as a breadwinner
+
+
+250) HAPPYCRE
+Q58f. If you are married or living as married, please indicate how happy you are with certain aspects of your home life and relationship with your partner or spouse: Your partner/spouse as someone who takes care of things around the house
+
+
+251) HAPPYDO
+Q58g. If you are married or living as married, please indicate how happy you are with certain aspects of your home life and relationship with your partner or spouse: Your partner/spouse as someone to do things with
+
+
+252) HAPPYFIN
+Q58h. If you are married or living as married, please indicate how happy you are with certain aspects of your home life and relationship with your partner or spouse: Your financial situation
+
+
+253) CHILDREN
+Q59. How many children, if any, do you have?
+
+
+254) UNDER18
+Q60. How many children under the age of 18 currently live in your household?
+
+
+255) AGEYOUNG
+Q61. What is the age of your youngest child currently living at home?
+
+
+256) CHLDENTR
+Q62a. If you have children, how well do the following statements describe your family? I closely monitor my children's entertainment (movies, books, Internet use, music, etc.)
+
+
+257) WHEREKID
+Q62b. If you have children, how well do the following statements describe your family? I closely monitor where my children are at all times
+
+
+258) KIDSFRND
+Q62c. If you have children, how well do the following statements describe your family? My children's friends have too much influence over their behavior
+
+
+259) CORPPUN
+Q62d. If you have children, how well do the following statements describe your family? Our family does not believe in the use of corporal punishment (such as spanking)
+
+
+260) PRAISEKD
+Q62e. If you have children, how well do the following statements describe your family? Our family believes it is more important to praise children that it is to discipline them
+
+
+261) TIMEOUTS
+Q62f. If you have children, how well do the following statements describe your family? We ground our children or give them 'time-outs' as a form of discipline
+
+
+262) HOMESCHL
+Q63. Are any of your children home-schooled?
+
+
+263) IMPSAME
+Q64a. How important are the following things to you? That your children have the same religion as you
+
+
+264) IMPMARR
+Q64b. How important are the following things to you? That your children marry someone with the same religion as you
+
+
+265) IMPSHARE
+Q64c. How important are the following things to you? That you and your partner/spouse share the same religious views
+
+
+266) PARCORP
+Q65a. How well do the following statements describe your parents? My parents often used corporal punishment (such as spanking) as a form of discipline
+
+
+267) PARGRND
+Q65b. How well do the following statements describe your parents? My parents used groundings and 'time-outs' as a form of discipline
+
+
+268) PARPRAIS
+Q65c. How well do the following statements describe your parents? My parents believed it was more important to praise children than it was to discipline them
+
+
+269) SUITED
+Q66a. Please indicate your level of agreement with the following statements about men's and women's roles: Most men are better suited emotionally for politics than most women
+
+
+270) SUFFER
+Q66b. Please indicate your level of agreement with the following statements about men's and women's roles: A preschool child is likely to suffer if his or her mother works
+
+
+271) WMNCARE
+Q66c. Please indicate your level of agreement with the following statements about men's and women's roles: It is God's will that women care for children
+
+
+272) EQCHORES
+Q66d. Please indicate your level of agreement with the following statements about men's and women's roles: If his wife works full-time, a husband should share equally in household chores , such as cooking, cleaning, and washing
+
+
+273) SALARY
+Q66e Please indicate your level of agreement with the following statements about men's and women's roles: A husband should earn a larger salary than his wife
+
+
+274) MOREOPP
+Q66f Please indicate your level of agreement with the following statements about men's and women's roles: The way society is set up, men have more opportunities than women
+
+
+275) FEMINIST
+Q66g. Please indicate your level of agreement with the following statements about men's and women's roles: I consider myself as a feminist
+
+
+276) GENDER
+Q67. What is your gender?
+
+
+277) AGE
+Respondent's age (See Note 1 on the ARDA summary page)
+
+
+278) USCITIZN
+Q69. Are you a citizen of the United States of America?
+
+
+279) RURALURB
+Q70. Which of the following best describes the place where you now live? (Please mark only one box.)
+
+
+280) HRSWORKD
+Q71. How many hours did you work last week?
+
+
+281) EMPLOYER
+Q72. Which of the following best describes your place of employment? (Please mark only one box.)
+
+
+282) JOBTITLE
+Q73. If you are currently employed, what is your job title? (See Note 2 on the ARDA summary page)
+
+
+283) LOCALBUS
+Q74. Is your current employer a locally-owned business?
+
+
+284) NOTWORK
+Q75. If you did not do any work last week for pay or profit, what is the reason? (Please mark only one box)
+
+
+285) WHITE
+Q76a. What is your race? (You can mark 'yes' to more than one.) White
+
+
+286) BLACK
+Q76b. What is your race? (You can mark 'yes' to more than one.) Black or African American
+
+
+287) AMERIND
+Q76c. What is your race? (You can mark 'yes' to more than one.) American Indian or Alaska Native
+
+
+288) ASIAN
+Q76d. What is your race? (You can mark 'yes' to more than one.) Asian
+
+
+289) PACISLND
+Q76e. What is your race? (You can mark 'yes' to more than one.) Native Hawaiian or other Pacific Islander
+
+
+290) OTHRRACE
+Q76f. What is your race? (You can mark 'yes' to more than one.) Some other race (please specify)
+
+
+291) HISPANIC
+Q77. If you are Hispanic or Latino, which of the following are you? (Please mark only one box)
+
+
+292) EDUC
+Q79. What is the highest level of education you have completed? (Please mark only one box.)
+
+
+293) INCOME
+Q79. By your best estimate, what was your total household income last year, before taxes?
+
+
+294) FRNDNGHB
+Q80a. Thinking of your close friends, how many live in your neighborhood?
+
+
+295) FRNDCHAR
+Q80b. Thinking of your close friends, how many belong to the same charitable organizations as you?
+
+
+296) FRNDWORK
+Q80c. Thinking of your close friends, how many work at the same place as you?
+
+
+297) PYTHRILL
+Q81a. Please indicate the extent to which you agree or disagree with each statement: I like doing things for a thrill
+
+
+298) ROMANCE
+Q81b. Please indicate the extent to which you agree or disagree with each statement: I worry about my romantic relationships
+
+
+299) PURPOSE
+Q81c. Please indicate the extent to which you agree or disagree with each statement: My life has a real purpose
+
+
+300) PREDICT
+Q81d. Please indicate the extent to which you agree or disagree with each statement: I enjoy situations where I cannot predict the outcome
+
+
+301) MEMORIES
+Q81e. Please indicate the extent to which you agree or disagree with each statement: From childhood, I have mostly positive memories of my parents
+
+
+302) VOLCOMM1
+Q82a. About how many hours per month do you volunteer for the community, through your place of worship?
+
+
+303) VOLCOMM2
+Q82b. About how many hours per month do you volunteer for the community, not through your place of worship?
+
+
+304) VOLWRSHP
+Q82c. About how many hours per month do you volunteer for your place of worship?
+
+
+305) LRNRESP
+Q83a. Please indicate the extent to which you agree or disagree with each statement: Obedience and respect are the most important things kids should learn
+
+
+306) CRACKDWN
+Q83b Please indicate the extent to which you agree or disagree with each statement: We must crack down on troublemakers to save our moral standards and keep law and order
+
+
+307) SHOWRESP
+Q83c. Please indicate the extent to which you agree or disagree with each statement: People should be made to show respect for America's traditions
+
+
+308) EXTROVRT
+Q84a. Here are a number of personality traits which may or may not apply to you. Please indicate the extent to which you agree or disagree with each trait. I see myself as: extroverted
+
+
+309) CRITICAL
+Q84b. Here are a number of personality traits which may or may not apply to you. Please indicate the extent to which you agree or disagree with each trait. I see myself as: critical
+
+
+310) TRDEPEND
+Q84c. Here are a number of personality traits which may or may not apply to you. Please indicate the extent to which you agree or disagree with each trait. I see myself as: dependable
+
+
+311) ANXIOUS
+Q84d. Here are a number of personality traits which may or may not apply to you. Please indicate the extent to which you agree or disagree with each trait. I see myself as: anxious
+
+
+312) OPENNEW
+Q84e. Here are a number of personality traits which may or may not apply to you. Please indicate the extent to which you agree or disagree with each trait. I see myself as: open to new experiences
+
+
+313) QUIET
+Q84f. Here are a number of personality traits which may or may not apply to you. Please indicate the extent to which you agree or disagree with each trait. I see myself as: quiet
+
+
+314) SYMPATH
+Q84g. Here are a number of personality traits which may or may not apply to you. Please indicate the extent to which you agree or disagree with each trait. I see myself as: sympathetic
+
+
+315) DISORG
+Q84h. Here are a number of personality traits which may or may not apply to you. Please indicate the extent to which you agree or disagree with each trait. I see myself as: disorganized
+
+
+316) CALM
+Q84i. Here are a number of personality traits which may or may not apply to you. Please indicate the extent to which you agree or disagree with each trait. I see myself as: calm
+
+
+317) UNCREAT
+Q84j. Here are a number of personality traits which may or may not apply to you. Please indicate the extent to which you agree or disagree with each trait. I see myself as: uncreative
+
+
+318) RELTRAD
+Respondent's religious tradition
+
+
+319) I-AGE
+Respondent's age (See Note 1 on the ARDA summary page) (Recoded for use with online analysis)
+
+
+320) I-EDUC
+Q79. What is the highest level of education you have completed? (Please mark only one box.) (Recoded for use with online analysis)
+
+
+321) I-GENDER
+Q67. What is your gender? (for use with online analysis)
+
+
+322) I-RELIGION
+Respondent's religious tradition (Recoded for use with online analysis)
+
+
+323) I-REGION
+Region where the respondent lives (for use with online analysis)
+
+
+324) I-ATTEND
+Q4. How often do you attend religious services? (Recoded for use with online analysis)
+
+

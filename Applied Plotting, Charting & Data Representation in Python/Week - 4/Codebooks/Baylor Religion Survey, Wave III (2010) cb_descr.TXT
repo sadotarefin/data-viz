@@ -1,0 +1,1130 @@
+Data File: BRS2011(Description Only Codebook)
+
+1) MOTHERL
+Motherlode ID
+
+
+2) PROJECT
+Project ID
+
+
+3) METHOD
+Method ID
+
+
+4) METHOD2
+Method type
+
+
+5) PROJECT2
+Project number
+
+
+6) CREATED
+Created on
+
+
+7) PRACTICE
+Practice
+
+
+8) RESPOND2
+Respondent Date
+
+
+9) TEMPLATE
+TEMPLATE_NUMBER_15822101
+
+
+10) BAYLOR
+BAYLOR_UNIVERSITY_2010_FOR
+
+
+11) SCAN_ID
+SCAN_RESPONDENT_ID
+
+
+12) ENTITY
+ENTITY_ID
+
+
+13) REGION
+Region
+
+
+14) AUTO_INC
+AUTO_INCREMENT
+
+
+15) BATCH
+Batch ID
+
+
+16) LANG1
+LANG1
+
+
+17) SURVEY
+Survey type
+
+
+18) Q1
+With what religious family, if any, do you most closely identify?
+
+
+19) Q3
+How religious do you consider yourself to be?
+
+
+20) Q4
+How often do you attend religious services at a place of worship?
+
+
+21) Q7
+How long have you attended your current place of worship?
+
+
+22) Q8
+During the last year, approximately how much money (if any) did you and other family members in your household contribute to your current place of worship?
+
+
+23) Q9
+On average, how many people attend services at your current place of worship? Just your best estimate will do.
+
+
+24) Q10
+Outside of attending religious services, about how often do you spend time alone reading the Bible, Koran, Torah, or other sacred book?
+
+
+25) Q11
+About how often do you spend time alone praying outside of religious services?
+
+
+26) Q12A
+How well do the following terms describe your religious identity? Bible-Believing.
+
+
+27) Q12B
+How well do the following terms describe your religious identity? Born-Again.
+
+
+28) Q12C
+How well do the following terms describe your religious identity? Charismatic.
+
+
+29) Q12D
+How well do the following terms describe your religious identity? New Age.
+
+
+30) Q12E
+How well do the following terms describe your religious identity? Evangelical.
+
+
+31) Q12F
+How well do the following terms describe your religious identity? Fundamentalist.
+
+
+32) Q12G
+How well do the following terms describe your religious identity? Mainline Christian.
+
+
+33) Q12H
+How well do the following terms describe your religious identity? Pentecostal.
+
+
+34) Q12I
+How well do the following terms describe your religious identity? Seeker.
+
+
+35) Q12J
+How well do the following terms describe your religious identity? Spiritual.
+
+
+36) Q12K
+How well do the following terms describe your religious identity? Theologically conservative.
+
+
+37) Q12L
+How well do the following terms describe your religious identity? Theologically liberal.
+
+
+38) Q12M
+How well do the following terms describe your religious identity? Traditional.
+
+
+39) Q13A
+How often did you participate in the following religious or faith-based activities in the last month? Church social gatherings like fellowships or potlucks.
+
+
+40) Q13B
+How often did you participate in the following religious or faith-based activities in the last month? Religious education programs, such as Bible study or Sunday school.
+
+
+41) Q13C
+How often did you participate in the following religious or faith-based activities in the last month? Choir practice or other musical programs.
+
+
+42) Q13D
+How often did you participate in the following religious or faith-based activities in the last month? Discussion groups about faith in the workplace.
+
+
+43) Q13E
+How often did you participate in the following religious or faith-based activities in the last month? Faith-based programs related to starting or running a small business.
+
+
+44) Q13F
+How often did you participate in the following religious or faith-based activities in the last month? Witnessing/sharing your faith.
+
+
+45) Q13G
+How often did you participate in the following religious or faith-based activities in the last month? Community prayer group or Bible study.
+
+
+46) Q13H
+How often did you participate in the following religious or faith-based activities in the last month? Faith-based programs not affiliated or sponsored by a congregation.
+
+
+47) Q13I
+How often did you participate in the following religious or faith-based activities in the last month? Other kinds of religious or faith-based activities.
+
+
+48) Q14A
+How many of your friends attend your place of worship?
+
+
+49) Q14B
+How many of your friends attend a different place of worship?
+
+
+50) Q14C
+How many of your friends do not attend religious services?
+
+
+51) Q15A
+Please indicate your level of agreement with the following statements: All of the religions in the world are equally true.
+
+
+52) Q15B
+Please indicate your level of agreement with the following statements: All around the world, no matter what religion they call themselves, people worship the same God.
+
+
+53) Q15C
+Please indicate your level of agreement with the following statements: The earth itself is a living, thinking being.
+
+
+54) Q16A
+How likely is it that life after death is: A union with God?
+
+
+55) Q16B
+How likely is it that life after death is: A reunion with loved ones?
+
+
+56) Q16C
+How likely is it that life after death is: Reincarnation into another life form?
+
+
+57) Q16D
+How likely is it that life after death is: A life of eternal reward or eternal punishment?
+
+
+58) Q17
+Which one statement comes closest to your personal beliefs about the Bible?
+
+
+59) Q18
+Which one statement comes closest to your personal beliefs about God?
+
+
+60) Q19A
+Based on your personal understanding, what do you think God is like? Concerned with the well-being of the world.
+
+
+61) Q19B
+Based on your personal understanding, what do you think God is like? Angered by my sins.
+
+
+62) Q19C
+Based on your personal understanding, what do you think God is like? Directly involved in world affairs.
+
+
+63) Q19D
+Based on your personal understanding, what do you think God is like? Concerned with my personal well-being.
+
+
+64) Q19E
+Based on your personal understanding, what do you think God is like? Directly involved in my affairs.
+
+
+65) Q19F
+Based on your personal understanding, what do you think God is like? Angered by human sins.
+
+
+66) Q20A
+How well do you feel that each of the following words describe God in your opinion? Absolute.
+
+
+67) Q20B
+How well do you feel that each of the following words describe God in your opinion? Critical.
+
+
+68) Q20C
+How well do you feel that each of the following words describe God in your opinion? Fatherly.
+
+
+69) Q20D
+How well do you feel that each of the following words describe God in your opinion? Punishing.
+
+
+70) Q20E
+How well do you feel that each of the following words describe God in your opinion? Just.
+
+
+71) Q20F
+How well do you feel that each of the following words describe God in your opinion? Wrathful.
+
+
+72) Q20G
+How well do you feel that each of the following words describe God in your opinion? Forgiving.
+
+
+73) Q20H
+How well do you feel that each of the following words describe God in your opinion? Severe.
+
+
+74) Q21A
+Please indicate your level of agreement with the following statements: I have a warm relationship with God.
+
+
+75) Q21B
+Please indicate your level of agreement with the following statements: God knows when I need support.
+
+
+76) Q21C
+Please indicate your level of agreement with the following statements: I feel that God is generally responsive to me.
+
+
+77) Q21D
+Please indicate your level of agreement with the following statements: God seems impersonal to me.
+
+
+78) Q21E
+Please indicate your level of agreement with the following statements: God seems to have little or no interest in my personal problems.
+
+
+79) Q21F
+Please indicate your level of agreement with the following statements: God seems to have little or no interest in my personal affairs.
+
+
+80) Q21G
+Please indicate your level of agreement with the following statements: God sometimes seems responsive to my needs, but sometimes not.
+
+
+81) Q21H
+Please indicate your level of agreement with the following statements: God's reactions to me seem to be inconsistent.
+
+
+82) Q21I
+Please indicate your level of agreement with the following statements: I feel loved by God.
+
+
+83) Q21J
+Please indicate your level of agreement with the following statements: God loves all living beings.
+
+
+84) Q21K
+Please indicate your level of agreement with the following statements: God's love is eternal.
+
+
+85) Q21L
+Please indicate your level of agreement with the following statements: God's love never fails.
+
+
+86) Q21M
+Please indicate your level of agreement with the following statements: God sometimes seems very warm and other times very cold to me.
+
+
+87) Q22A
+How much would you consider each of the following as a service to God? Volunteering at your place of worship.
+
+
+88) Q22B
+How much would you consider each of the following as a service to God? Spending time with family.
+
+
+89) Q22C
+How much would you consider each of the following as a service to God? Giving money to your place of worship.
+
+
+90) Q22D
+How much would you consider each of the following as a service to God? Doing your job.
+
+
+91) Q22E
+How much would you consider each of the following as a service to God? Personal devotional activities (Bible study, prayer, etc.).
+
+
+92) Q22F
+How much would you consider each of the following as a service to God? Enjoying leisure time or entertainment.
+
+
+93) Q23A
+In your opinion, does each of the following exist? The Devil/Satan.
+
+
+94) Q23B
+In your opinion, does each of the following exist? Heaven.
+
+
+95) Q23C
+In your opinion, does each of the following exist? Hell.
+
+
+96) Q23D
+In your opinion, does each of the following exist? Purgatory.
+
+
+97) Q23E
+In your opinion, does each of the following exist? Armageddon.
+
+
+98) Q23F
+In your opinion, does each of the following exist? Angels.
+
+
+99) Q23G
+In your opinion, does each of the following exist? Demons.
+
+
+100) Q24
+Have you ever been protected from harm by a guardian angel?
+
+
+101) Q26
+Do you practice meditation?
+
+
+102) Q27A
+Do you currently practice mindfulness meditation?
+
+
+103) Q27B
+Do you currently practice TM (transcendental meditation)?
+
+
+104) Q27C
+Do you currently practice Tibetan Buddhist meditation?
+
+
+105) Q27D
+Do you currently practice Zen Buddhist meditation?
+
+
+106) Q27E
+Do you currently practice meditation as a part of practicing yoga?
+
+
+107) Q27F
+Do you currently practice Jewish meditation?
+
+
+108) Q27G
+Do you currently practice Christian meditation?
+
+
+109) Q27H
+Do you currently practice: Other (specify).
+
+
+110) Q28A
+Now thinking about your physical health, for how many days during the past 30 days was your physical health not good?
+
+
+111) Q28B
+Now thinking about your mental health, for how many days during the past 30 days was your mental health not good?
+
+
+112) Q28C
+During the past 30 days, for about how many days did poor physical or mental health keep you from doing your usual activities, such as self-care, work, or recreation?
+
+
+113) Q28D
+During the past 30 days, for about how many days did pain make it hard for you to do your usual activities, such as self-care, work, or recreation?
+
+
+114) Q28E
+During the past 30 days, for about how many days did pain make it hard for you to do your usual activities, such as self-care, work, or recreation?
+
+
+115) Q28F
+During the past 30 days, for about how many days have you felt worried, tense, or anxious?
+
+
+116) Q28G
+During the past 30 days, for about how many days have you felt very healthy and full of energy?
+
+
+117) Q29A
+Please indicate how often you have done each of the following: Prayed to God to receive healing for an illness or injury.
+
+
+118) Q29B
+Please indicate how often you have done each of the following: Prayed to God for another person's healing from an illness or injury.
+
+
+119) Q29C
+Please indicate how often you have done each of the following: Asked others to pray to God for your healing from an illness or injury.
+
+
+120) Q29D
+Please indicate how often you have done each of the following: Given laying-on-of-hands for an illness or injury.
+
+
+121) Q29E
+Please indicate how often you have done each of the following: Participated in a prayer group, prayer chain, or prayer circle that prayed for other people's healing from illness or injury.
+
+
+122) Q30
+Have you ever sought the help of someone, other than a physician/nurse, who calls themselves a 'healer'?
+
+
+123) Q32A
+Please indicate your level of agreement with each of the following statements if you were to suffer a serious illness or injury that required care -- would you: Only seek medical care and not prayer.
+
+
+124) Q32B
+Please indicate your level of agreement with each of the following statements if you were to suffer a serious illness or injury that required care -- would you: Only seek prayer as a last resort.
+
+
+125) Q32C
+Please indicate your level of agreement with each of the following statements if you were to suffer a serious illness or injury that required care -- would you: Only seek medical care as a last resort.
+
+
+126) Q32D
+Please indicate your level of agreement with each of the following statements if you were to suffer a serious illness or injury that required care -- would you: Seek both medical care and prayer at the onset.
+
+
+127) Q33A
+Over the past month, how often have you felt nervous, anxious, or on edge?
+
+
+128) Q33B
+Over the past month, how often have you thought too much about pointless matters?
+
+
+129) Q33C
+Over the past month, how often have you been afraid something terrible would happen if you did not perform certain rituals?
+
+
+130) Q33D
+Over the past month, how often have you felt that it is not safe to trust anyone?
+
+
+131) Q33E
+Over the past month, how often have you not been able to stop or control worrying?
+
+
+132) Q33F
+Over the past month, how often have you felt compelled to perform certain actions, for no justifiable reason?
+
+
+133) Q33G
+Over the past month, how often have you become anxious doing things because people were watching?
+
+
+134) Q33H
+Over the past month, how often have you been plagued by thoughts or images that you cannot get out of your mind?
+
+
+135) Q33I
+Over the past month, how often have you repeated simple actions that realistically did not need to be repeated?
+
+
+136) Q33J
+Over the past month, how often have you thought too much about things that would not bother other people?
+
+
+137) Q33K
+Over the past month, how often have you feared that you might do something to embarrass yourself in a social situation?
+
+
+138) Q33L
+Over the past month, how often have you endured intense anxiety in social or performance situations?
+
+
+139) Q33M
+Over the past month, how often have you felt that people were taking advantage of you?
+
+
+140) Q33N
+Over the past month, how often have you worried too much about different things?
+
+
+141) Q33O
+Over the past month, how often have you felt like you were being watched or talked about by others?
+
+
+142) Q34A
+Please indicate how strongly you agree or disagree with the following statement: I desire to discover who I really am.
+
+
+143) Q34B
+Please indicate how strongly you agree or disagree with the following statement: I seldom think about the meaning of life.
+
+
+144) Q34C
+Please indicate how strongly you agree or disagree with the following statement: There is more to life than physical well-being.
+
+
+145) Q34D
+Please indicate how strongly you agree or disagree with the following statement: It is useless to try to discover the purpose of my life.
+
+
+146) Q34E
+Please indicate how strongly you agree or disagree with the following statement: I believe in ultimate truth in life.
+
+
+147) Q34F
+Please indicate how strongly you agree or disagree with the following statement: It is important to have a significant philosophy of life.
+
+
+148) Q34G
+Please indicate how strongly you agree or disagree with the following statement: I do not believe there is any ultimate meaning in life.
+
+
+149) Q34H
+Please indicate how strongly you agree or disagree with the following statement: I seek out opportunities to attain eternal wisdom for life.
+
+
+150) Q34I
+Please indicate how strongly you agree or disagree with the following statement: Material well-being is essential to find fulfillment in life.
+
+
+151) Q34J
+Please indicate how strongly you agree or disagree with the following statement: Finding answers to the mysteries of life is not relevant to my life's goal.
+
+
+152) Q35
+Are you currently employed full-time, part-time, or do any work as a volunteer?
+
+
+153) Q36A
+Please indicate how often the following statements apply to you: I view my work as a partnership with God.
+
+
+154) Q36B
+Please indicate how often the following statements apply to you: I see connections between my worship and my work.
+
+
+155) Q36C
+Please indicate how often the following statements apply to you: I view my work as a mission from God.
+
+
+156) Q36D
+Please indicate how often the following statements apply to you: I pursue excellence in my work because of my faith.
+
+
+157) Q36E
+Please indicate how often the following statements apply to you: I view my work as part of God's plan to care for the needs of people.
+
+
+158) Q37A
+To what extent do you agree with the following statements about your work: I often approach my tasks in unique ways.
+
+
+159) Q37B
+To what extent do you agree with the following statements about your work: In general, I do not like my job.
+
+
+160) Q37C
+To what extent do you agree with the following statements about your work: I rarely question the value of established procedures.
+
+
+161) Q37D
+To what extent do you agree with the following statements about your work: I rarely put myself in positions in which I might lose something important to me.
+
+
+162) Q37E
+To what extent do you agree with the following statements about your work: I don't mind taking chances with things that are important to me.
+
+
+163) Q37F
+To what extent do you agree with the following statements about your work: All in all, I am satisfied with my job.
+
+
+164) Q37G
+To what extent do you agree with the following statements about your work: I am proud of the work I do.
+
+
+165) Q38A
+The following are statements an individual may have about the organization for which they work. Regarding your current employer: I really feel as if this organization's problems are my own.
+
+
+166) Q38B
+The following are statements an individual may have about the organization for which they work. Regarding your current employer: I do not feel a strong sense of 'belonging' to my organization.
+
+
+167) Q38C
+The following are statements an individual may have about the organization for which they work. Regarding your current employer: I do not feel 'emotionally attached' to my organization.
+
+
+168) Q38D
+The following are statements an individual may have about the organization for which they work. Regarding your current employer: This organization has a great deal of personal meaning to me.
+
+
+169) Q39
+Have you ever started a new business?
+
+
+170) Q40
+Are you currently trying to start a new business?
+
+
+171) Q41
+[If you have started a new business ('Yes' in Q39) or if you are currently trying to start a new business ('Yes' in Q40)] Which one of the following best describes your primary reason for starting or trying to start a new business?
+
+
+172) Q42A
+To what extent does your place of worship encourage its participants to start a business?
+
+
+173) Q42B
+To what extent does your place of worship encourage its participants to make a profit in business?
+
+
+174) Q43
+If you were unsure of what was right or wrong in a particular situation, how would you decide what to do?
+
+
+175) Q44A
+How do you feel about the morality of the following? Abortion, if the pregnancy is the result of rape.
+
+
+176) Q44B
+How do you feel about the morality of the following? Sexual relations between two adults of the same sex.
+
+
+177) Q44C
+How do you feel about the morality of the following? Government bailout of major banks and corporations.
+
+
+178) Q44D
+How do you feel about the morality of the following? Divorce, if children are present.
+
+
+179) Q44E
+How do you feel about the morality of the following? Adoption of children by homosexual couples.
+
+
+180) Q44F
+How do you feel about the morality of the following? Embryonic stem cell research.
+
+
+181) Q44G
+How do you feel about the morality of the following? War.
+
+
+182) Q45
+For whom did you vote in the 2008 presidential election?
+
+
+183) Q46
+How would you describe yourself politically?
+
+
+184) Q47
+Do you think of yourself as Republican, Democrat, or Independent?
+
+
+185) Q48A
+How much would you say that you trust the following people or groups? People in general.
+
+
+186) Q48B
+How much would you say that you trust the following people or groups? Your neighbors.
+
+
+187) Q48C
+How much would you say that you trust the following people or groups? Your coworkers.
+
+
+188) Q48D
+How much would you say that you trust the following people or groups? Strangers.
+
+
+189) Q48E
+How much would you say that you trust the following people or groups? People who do not believe in God.
+
+
+190) Q49
+Which one of the following statements best applies to you?
+
+
+191) Q50A
+Please describe how you feel about homosexuality for the following statements: Homosexuals should have equal employment opportunities.
+
+
+192) Q50B
+Please describe how you feel about homosexuality for the following statements: Homosexuals should be allowed to legally marry.
+
+
+193) Q50C
+Please describe how you feel about homosexuality for the following statements: People choose to be homosexuals.
+
+
+194) Q50D
+Please describe how you feel about homosexuality for the following statements: Homosexuals should be allowed civil unions.
+
+
+195) Q50E
+Please describe how you feel about homosexuality for the following statements: People are born either as homosexual or heterosexual.
+
+
+196) Q50F
+Please describe how you feel about homosexuality for the following statements: I personally know someone who is homosexual.
+
+
+197) Q50G
+Please describe how you feel about homosexuality for the following statements: This country needs a law banning gay marriage.
+
+
+198) Q51A
+On an average day, about how many hours per day do you watch television?
+
+
+199) Q51B
+On an average day, about how many hours per day do you surf the internet (not including e-mail)?
+
+
+200) Q51C
+On an average day, about how many hours per day do you listen to talk radio?
+
+
+201) Q51D
+On an average day, about how many hours per day do you read newspapers/magazines?
+
+
+202) Q51E
+On an average day, about how many hours per day do you listen to music on the radio?
+
+
+203) Q52A
+When watching television, have your religious beliefs ever been offended by negative comments made on crime dramas (e.g., CSI)?
+
+
+204) Q52B
+When watching television, have your religious beliefs ever been offended by negative comments made on medical dramas (e.g., House, Grey's Anatomy)?
+
+
+205) Q52C
+When watching television, have your religious beliefs ever been offended by negative comments made on reality TV shows (e.g., American Idol, The Bachelor, or The Biggest Loser)?
+
+
+206) Q52D
+When watching television, have your religious beliefs ever been offended by negative comments made on comedic 'news' shows (e.g., The Daily Show or The Colbert Report)?
+
+
+207) Q52E
+When watching television, have your religious beliefs ever been offended by negative comments made on comedic sitcoms (e.g., The Office)?
+
+
+208) Q52F
+When watching television, have your religious beliefs ever been offended by negative comments made on cable news shows (e.g., Bill O'Reilly, Keith Olbermann)?
+
+
+209) Q52G
+When watching television, have your religious beliefs ever been offended by negative comments made on religious programming (e.g., the 700 Club)?
+
+
+210) Q52H
+When watching television, have your religious beliefs ever been offended by negative comments made on evening news programs (e.g., CBS Evening News)?
+
+
+211) Q53A
+Media portrayals of religious traditions and beliefs have made you: Believe more in evolution than creationism.
+
+
+212) Q53B
+Media portrayals of religious traditions and beliefs have made you: Believe in medical miracles that cannot be explained by science.
+
+
+213) Q53C
+Media portrayals of religious traditions and beliefs have made you: Believe that Muslims are more likely to be terrorists.
+
+
+214) Q53D
+Media portrayals of religious traditions and beliefs have made you: Vote in an election.
+
+
+215) Q53E
+Media portrayals of religious traditions and beliefs have made you: Believe that Evangelical Christians are intolerant of others.
+
+
+216) Q53F
+Media portrayals of religious traditions and beliefs have made you: A supporter of gay marriage.
+
+
+217) Q54
+What is your gender?
+
+
+218) Q55M
+Month of birth
+
+
+219) Q55D
+Day of birth
+
+
+220) Q55Y
+Year of birth
+
+
+221) Q56
+Are you a citizen of the United States of America?
+
+
+222) Q57
+Which of the following BEST describes the place where you now live?
+
+
+223) Q58
+If you are employed, which of the following best describes your place of employment?
+
+
+224) Q60_NONE
+How many hours did you work last week?
+
+
+225) Q60
+How many hours did you work last week?
+
+
+226) Q61
+About how many people work for your employer (including part-time and full-time employees at all locations)?
+
+
+227) Q62
+Is your current employer a locally owned business?
+
+
+228) Q63A
+What is your race? White.
+
+
+229) Q63B
+What is your race? Black or African-American.
+
+
+230) Q63C
+What is your race? American Indian or Alaska Native.
+
+
+231) Q63D
+What is your race? Asian.
+
+
+232) Q63E
+What is your race? Native Hawaiian or other Pacific Islander.
+
+
+233) Q63F
+What is your race? Some other race.
+
+
+234) Q64A
+If you are Hispanic or Latino, which of the following are you?
+
+
+235) Q64B
+If you are Hispanic or Latino, which of the following are you?
+
+
+236) Q64C
+If you are Hispanic or Latino, which of the following are you?
+
+
+237) Q64D
+If you are Hispanic or Latino, which of the following are you?
+
+
+238) Q64E
+If you are Hispanic or Latino, which of the following are you?
+
+
+239) Q64F
+If you are Hispanic or Latino, which of the following are you?
+
+
+240) Q65
+What is the highest level of education you have completed?
+
+
+241) Q66
+If you did not do any work last week for pay or profit, what is the reason?
+
+
+242) Q67
+How many children do you have?
+
+
+243) Q67A
+How many children do you have?
+
+
+244) Q68
+How many children under the age of 18 currently live in your household?
+
+
+245) Q68A
+How many children under the age of 18 currently live in your household?
+
+
+246) Q69
+What is your current marital status?
+
+
+247) Q70
+By your best estimate, what was your total household income last year, before taxes?
+
+
+248) Q71A
+Would your friends and family most likely describe you as creative?
+
+
+249) Q71B
+Would your friends and family most likely describe you as outgoing?
+
+
+250) Q71C
+Would your friends and family most likely describe you as shy?
+
+
+251) Q71D
+Would your friends and family most likely describe you as humble?
+
+
+252) Q71E
+Would your friends and family most likely describe you as giving?
+
+
+253) Q71F
+Would your friends and family most likely describe you as upbeat?
+
+
+254) Q71G
+Would your friends and family most likely describe you as curious?
+
+
+255) Q72
+In general, how happy are you with your life as a whole these days?
+
+
+256) Q73A
+Please describe your feelings for each of the following statements about people's life chances in general: Some people are meant to be rich, and some people are meant to be poor.
+
+
+257) Q73B
+Please describe your feelings for each of the following statements about people's life chances in general: Anything is possible for those who work hard.
+
+
+258) Q73C
+Please describe your feelings for each of the following statements about people's life chances in general: Some people are born lucky.
+
+
+259) Q73D
+Please describe your feelings for each of the following statements about people's life chances in general: Everyone starts out with the same chances in life.
+
+
+260) Q73E
+Please describe your feelings for each of the following statements about people's life chances in general: God has a plan for all of us.
+
+
+261) Q73F
+Please describe your feelings for each of the following statements about people's life chances in general: The world is controlled by a few powerful people.
+
+
+262) Q73G
+Please describe your feelings for each of the following statements about people's life chances in general: It makes no difference which political party is in power.
+
+
+263) Q73H
+Please describe your feelings for each of the following statements about people's life chances in general: Success is achieved by ability rather than luck.
+
+
+264) Q74A
+Please describe your feelings for each of the following statements about people's life chances in general: Usually, I know how to get around the rules.
+
+
+265) Q74B
+Please describe your feelings for each of the following statements about people's life chances in general: My failures are usually due to a lack of effort on my part.
+
+
+266) Q74C
+Please describe your feelings for each of the following statements about people's life chances in general: My choices in life are very limited right now.
+
+
+267) Q74D
+Please describe your feelings for each of the following statements about people's life chances in general: I know God has a plan for me.
+
+
+268) Q74E
+Please describe your feelings for each of the following statements about people's life chances in general: My future is in my hands.
+
+
+269) Q74F
+Please describe your feelings for each of the following statements about people's life chances in general: I am searching for my purpose in life.
+
+
+270) Q74G
+Please describe your feelings for each of the following statements about people's life chances in general: Most days, I awaken with a sense of excitement about the day's possibilities.
+
+
+271) Q74H
+Please describe your feelings for each of the following statements about people's life chances in general: I am in control of my own fate and fortune.
+
+
+272) Q75A
+Please answer the following: Most of the people I know have jobs that make a real contribution to society.
+
+
+273) Q75B
+Please answer the following: People who go into careers like nursing, teaching, or ministry should be admired for that career choice.
+
+
+274) Q75C
+Please answer the following: Able-bodied people who are out of work shouldn't receive unemployment checks if they are passing up jobs they can do.
+
+
+275) Q75D
+Please answer the following: Finance (banking, investment, etc.) is a field where people get rich without making a real contribution to society.
+
+
+276) WEIGHT
+Weight variable
+
+
+277) RELTRAD
+Religious tradition
+
+
+278) I-ATTEND
+How often do you attend religious services at a place of worship? (Recoded for use with online analysis)
+
+
+279) I-EDUC
+What is the highest level of education you have completed? (Recoded for use with online analysis)
+
+
+280) I-GENDER
+What is your gender? (for use with online analysis)
+
+
+281) I-MARITAL
+What is your current marital status? (Recoded for use with online analysis)
+
+
+282) I-RELIGION
+Religious tradition (Recoded for use with online analysis)
+
+

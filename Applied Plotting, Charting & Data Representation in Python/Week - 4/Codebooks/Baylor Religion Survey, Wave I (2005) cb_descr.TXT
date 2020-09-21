@@ -1,0 +1,1618 @@
+Data File: BRS2005(Description Only Codebook)
+
+1) ID
+ID
+
+
+2) WGT
+Weight variable
+
+
+3) REGION
+Region where respondent lives
+
+
+4) Q1
+Q1 With what religious family do you most closely identify
+
+
+5) Q2
+If possible, please provide the specific name of your denomination.
+
+
+6) Q3A
+Q3 Which, if any, of the following terms describe your religious identity Born-Again
+
+
+7) Q3B
+Q3 Which, if any, of the following terms describe your religious identity Bible-Believing
+
+
+8) Q3C
+Q3 Which, if any, of the following terms describe your religious identity Charismatic
+
+
+9) Q3D
+Q3 Which, if any, of the following terms describe your religious identity Theologically Conservative
+
+
+10) Q3E
+Q3 Which, if any, of the following terms describe your religious identity Evangelical
+
+
+11) Q3F
+Q3 Which, if any, of the following terms describe your religious identity Fundamentalist
+
+
+12) Q3G
+Q3 Which, if any, of the following terms describe your religious identity Theologically Liberal
+
+
+13) Q3H
+Q3 Which, if any, of the following terms describe your religious identity Mainline Christian
+
+
+14) Q3I
+Q3 Which, if any, of the following terms describe your religious identity Pentecostal
+
+
+15) Q3J
+Q3 Which, if any, of the following terms describe your religious identity Seeker
+
+
+16) Q3K
+Q3 Which, if any, of the following terms describe your religious identity Religious Right
+
+
+17) Q3L
+Q3 Which, if any, of the following terms describe your religious identity Moral Majority
+
+
+18) Q4
+Q4  Please indicate the one term that best describes your religious identity
+
+
+19) Q5
+Q5  How often do you attend religious services?
+
+
+20) Q8
+Q8  How long have you attended your current place of worship?
+
+
+21) Q9
+Q9 On average, how many people attend services at your current place of worship?
+
+
+22) Q10
+Q10 About what percent of the people at your current place of worship are of the same race/ethnicity as you?
+
+
+23) Q11
+Q11  During the last year, approximately how much money did you and other family members in your household contribute to your current place of worship
+
+
+24) Q12A
+Q12 By your best guess, how would your place of worship feel about the following behaviors - a. Speaking in tongues
+
+
+25) Q12B
+Q12 By your best guess, how would your place of worship feel about the following behaviors - b. Raising hands during the service
+
+
+26) Q12C
+Q12 By your best guess, how would your place of worship feel about the following behaviors - c. Laying on of hands/healing
+
+
+27) Q12D
+Q12 By your best guess, how would your place of worship feel about the following behaviors - d. Members claiming new revelations from God
+
+
+28) Q13A
+Q13 How many of your friends - a. go to your church
+
+
+29) Q13B
+Q13 How many of your friends - b. go to a different church
+
+
+30) Q13C
+Q13 How many of your friends - c. are not religious at all
+
+
+31) Q14A
+Q14 How often did you participate in the following religious activities last month - a. Religious education programs, such as Bible study or Sunday school
+
+
+32) Q14B
+Q14 How often did you participate in the following religious activities last month - b. Choir practice or other musical programs
+
+
+33) Q14C
+Q14 How often did you participate in the following religious activities last month - c. Church-sponsored counseling programs
+
+
+34) Q14D
+Q14 How often did you participate in the following religious activities last month - d. Community or missionary outreach programs
+
+
+35) Q14E
+Q14 How often did you participate in the following religious activities last month - e. Church upkeep and maintenance
+
+
+36) Q14F
+Q14 How often did you participate in the following religious activities last month - f. Prayer meetings
+
+
+37) Q14G
+Q14 How often did you participate in the following religious activities last month - g. Committee or administrative work at your church
+
+
+38) Q14H
+Q14 How often did you participate in the following religious activities last month - h. Small group or Discipleship
+
+
+39) Q14I
+Q14 How often did you participate in the following religious activities last month - i. Witnessing/sharing your faith with friends
+
+
+40) Q14J
+Q14 How often did you participate in the following religious activities last month - j. Witnessing/sharing your faith with strangers
+
+
+41) Q15
+Q15 Outside of attending religious services, about how often do you read the Bible, Koran, Torah, or other sacred book
+
+
+42) Q16
+Q16 About how often do you pray or meditate outside of religious services
+
+
+43) Q17A
+Q17 When you pray, to whom do you pray - 1st response
+
+
+44) Q17B
+Q17 When you pray, to whom do you pray - 3rd response
+
+
+45) Q18
+Q18 How often, if at all, do you participate in table prayers or grace before or after meals
+
+
+46) Q19A
+Q19 The last time you prayed, did you pray about the following ....Praise or adoration
+
+
+47) Q19B
+Q19  The last time you prayed, did you pray about the following ....General world concerns and affairs
+
+
+48) Q19C
+Q19 The last time you prayed, did you pray about the following ....Confessing sins/asking for forgiveness
+
+
+49) Q19D
+Q19  The last time you prayed, did you pray about the following ....Your family
+
+
+50) Q19E
+Q19  The last time you prayed, did you pray about the following ....Someone you know personally
+
+
+51) Q19F
+Q19  The last time you prayed, did you pray about the following ....Someone you do not know personally
+
+
+52) Q19G
+Q19  The last time you prayed, did you pray about the following ....People listed in a church bulletin, program, or newsletter
+
+
+53) Q19H
+Q19  The last time you prayed, did you pray about the following ....Your personal financial security
+
+
+54) Q19I
+Q19  The last time you prayed, did you pray about the following ....Your personal health
+
+
+55) Q19J
+Q19  The last time you prayed, did you pray about the following ....Your spiritual life/relationship with God
+
+
+56) Q19K
+Q19  The last time you prayed, did you pray about the following ....Other personal needs or concerns
+
+
+57) Q20
+Q20  Which one statement comes closest to your personal beliefs about the Bible
+
+
+58) Q21
+Q21  Which one statement comes closest to your personal beliefs about God
+
+
+59) Q22A
+Q22 Even if you might not believe in God, based on your personal understanding, what do you think God is like....a. A cosmic force in the universe
+
+
+60) Q22B
+Q22  Even if you might not believe in God, based on your personal understanding, what do you think God is like....b. Removed from worldly affairs (RECODED)
+
+
+61) Q22C
+Q22 Even if you might not believe in God, based on your personal understanding, what do you think God is like....c. Removed from my personal affairs (RECODED)
+
+
+62) Q22D
+Q22 Even if you might not believe in God, based on your personal understanding, what do you think God is like....d. Concerned with the well-being of the world
+
+
+63) Q22E
+Q22 Even if you might not believe in God, based on your personal understanding, what do you think God is like....e. Concerned with my personal well-being
+
+
+64) Q22F
+Q22  Even if you might not believe in God, based on your personal understanding, what do you think God is like....f. Angered by human sin
+
+
+65) Q22G
+Q22 Even if you might not believe in God, based on your personal understanding, what do you think God is like....g. Angered by my sins
+
+
+66) Q22H
+Q22 Even if you might not believe in God, based on your personal understanding, what do you think God is like....h. Directly involved in worldly affairs
+
+
+67) Q22I
+Q22 Even if you might not believe in God, based on your personal understanding, what do you think God is like....i. Directly involved in my affairs
+
+
+68) Q22J
+Q22 Even if you might not believe in God, based on your personal understanding, what do you think God is like....j. A 'He'
+
+
+69) Q23A
+Q23 How well do you feel that each of the following words… describe God a. Absolute
+
+
+70) Q23B
+Q23  How well do you feel that each of the following words... describe God b. Critical
+
+
+71) Q23C
+Q23  How well do you feel that each of the following words.. describe God c. Distant (FLIPPED)
+
+
+72) Q23D
+Q23  How well do you feel that each of the following words.. describe God d. Ever-present
+
+
+73) Q23E
+Q23  How well do you feel that each of the following words.. describe God e. Fatherly
+
+
+74) Q23F
+Q23  How well do you feel that each of the following words.. describe God f. Forgiving
+
+
+75) Q23G
+Q23  How well do you feel that each of the following words.. describe God g. Friendly
+
+
+76) Q23H
+Q23  How well do you feel that each of the following words.. describe God h. Just
+
+
+77) Q23I
+Q23  How well do you feel that each of the following words.. describe God i. Kind
+
+
+78) Q23J
+Q23  How well do you feel that each of the following words.. describe God j. Kingly
+
+
+79) Q23K
+Q23  How well do you feel that each of the following words.. describe God k. Loving
+
+
+80) Q23L
+Q23  How well do you feel that each of the following words.. describe God l. Motherly
+
+
+81) Q23M
+Q23  How well do you feel that each of the following words.. describe God m. Punishing
+
+
+82) Q23N
+Q23  How well do you feel that each of the following words.. describe God n. Severe
+
+
+83) Q23O
+Q23  How well do you feel that each of the following words.. describe God o. Wrathful
+
+
+84) Q23P
+Q23  How well do you feel that each of the following words.. describe God p. Yielding
+
+
+85) Q24
+Q24  Which one statement comes closest to your personal beliefs about Jesus
+
+
+86) Q25
+Q25  Which one statement comes closest to your personal view of religious salvation
+
+
+87) Q26A
+Q26  In your opinion, does each of the following ... exist a. God
+
+
+88) Q26B
+Q26  In your opinion, does each of the following ... exist b. Satan
+
+
+89) Q26C
+Q26  In your opinion, does each of the following ... exist c. Heaven
+
+
+90) Q26D
+Q26  In your opinion, does each of the following ... exist d. Hell
+
+
+91) Q26E
+Q26  In your opinion, does each of the following ... exist e. Purgatory
+
+
+92) Q26F
+Q26  In your opinion, does each of the following ... exist f. Angels
+
+
+93) Q26G
+Q26  In your opinion, does each of the following ... exist g. Demons
+
+
+94) Q26H
+Q26  In your opinion, does each of the following ... exist h. Armageddon
+
+
+95) Q26I
+Q26  In your opinion, does each of the following ... exist i. The Rapture
+
+
+96) Q26J
+Q26  In your opinion, does each of the following ... exist j. Ghosts
+
+
+97) Q27A
+Q27  If you believe in Heaven, how many of the following people.. do you think will get into Heaven a. Average Americans
+
+
+98) Q27B
+Q27  If you believe in Heaven, how many of the following people..do you think will get into Heaven b. Your personal friends
+
+
+99) Q27C
+Q27  If you believe in Heaven, how many of the following people..do you think will get into Heaven c. Your neighbors
+
+
+100) Q27D
+Q27  If you believe in Heaven, how many of the following people..do you think will get into Heaven d. Family members
+
+
+101) Q27E
+Q27  If you believe in Heaven, how many of the following people..do you think will get into Heaven e. Christians
+
+
+102) Q27F
+Q27  If you believe in Heaven, how many of the following people..do you think will get into Heaven f. Non-Christians
+
+
+103) Q28A
+Q28  Please indicate whether or not you have ever had any of the following experiences...a. I witnessed or experienced a miraculous, physical healing
+
+
+104) Q28B
+Q28  Please indicate whether or not you have ever had any of the following experiences...b. I witnessed people speaking in tongues at a place of worship
+
+
+105) Q28C
+Q28  Please indicate whether or not you have ever had any of the following experiences...c. I spoke in tongues at a place of worship
+
+
+106) Q28D
+Q28  Please indicate whether or not you have ever had any of the following experiences...d. I personally had a vision of a religious figure while awake
+
+
+107) Q28E
+Q28  Please indicate whether or not you have ever had any of the following experiences...e. I felt called by God to do something
+
+
+108) Q28F
+Q28  Please indicate whether or not you have ever had any of the following experiences...f. I heard the voice of God speaking to me
+
+
+109) Q28G
+Q28  Please indicate whether or not you have ever had any of the following experiences...g. I had a dream of religious significance
+
+
+110) Q28H
+Q28  Please indicate whether or not you have ever had any of the following experiences...h. I changed profoundly as the result of a religious experience
+
+
+111) Q28I
+Q28  Please indicate whether or not you have ever had any of the following experiences...i. I had a religious conversion experience
+
+
+112) Q29A
+Q29  Have you ever had an experience where you felt that ....you were filled with the spirit
+
+
+113) Q29B
+Q29  Have you ever had an experience where you felt that ....you were one with the universe
+
+
+114) Q29C
+Q29  Have you ever had an experience where you felt that ....you left your body for a period of time
+
+
+115) Q29D
+Q29  Have you ever had an experience where you felt that ....you were in a state of religious ecstasy
+
+
+116) Q30A
+Q30  How comfortable would you feel talking about religion with... a. your neighbors
+
+
+117) Q30B
+Q30  How comfortable would you feel talking about religion with... b. your co-workers (if applicable)
+
+
+118) Q30C
+Q30  How comfortable would you feel talking about religion with... c. your friends
+
+
+119) Q30D
+Q30  How comfortable would you feel talking about religion with... d. your family
+
+
+120) Q30E
+Q30  How comfortable would you feel talking about religion with... e. strangers
+
+
+121) Q31A
+Q31  Please indicate the religious affiliation of your... Father
+
+
+122) Q31B
+Q31  Please indicate the religious affiliation of your... Mother
+
+
+123) Q31C
+Q31  Please indicate the religious affiliation of your... Spouse
+
+
+124) Q32
+Q32  How personally religious were you at age 12?
+
+
+125) Q33
+Q33  By your best estimate, how often did you attend religious services at age 12?
+
+
+126) Q34A
+Q34  How do you feel about abortion in the following circumstances... a. The baby may have a serious defect
+
+
+127) Q34B
+Q34  How do you feel about abortion in the following circumstances... b. The woman's health is in danger
+
+
+128) Q34C
+Q34  How do you feel about abortion in the following circumstances... c. The pregnancy is the result of rape
+
+
+129) Q34D
+Q34  How do you feel about abortion in the following circumstances... d. The family cannot afford the child
+
+
+130) Q34E
+Q34  How do you feel about abortion in the following circumstances... e. The woman does not want the child
+
+
+131) Q35A
+Q35  How do you feel about sexual relations in the following circumstances... a. Before marriage
+
+
+132) Q35B
+Q35  How do you feel about sexual relations in the following circumstances... b. Between two adults of the same sex
+
+
+133) Q35C
+Q35  How do you feel about sexual relations in the following circumstances... c. With someone other than the marriage partner
+
+
+134) Q36A
+Q36  How do you feel about the following marriage and family related issues... a. Divorce
+
+
+135) Q36B
+Q36  How do you feel about the following marriage and family related issues... b. Living with a partner before marriage
+
+
+136) Q36C
+Q36  How do you feel about the following marriage and family related issues... c. Having a planned pregnancy outside of marriage
+
+
+137) Q36D
+Q36  How do you feel about the following marriage and family related issues... d. The adoption of a child by a gay couple
+
+
+138) Q36E
+Q36  How do you feel about the following marriage and family related issues... e. Adopting a child of a different race
+
+
+139) Q36F
+Q36  How do you feel about the following marriage and family related issues... f. Gay marriage
+
+
+140) Q37A
+Q37 How do you feel about the following... a. The consumption of alcohol
+
+
+141) Q37B
+Q37 How do you feel about the following... b. The viewing of pornography
+
+
+142) Q37C
+Q37 How do you feel about the following... c. The use of marijuana
+
+
+143) Q37D
+Q 37 How do you feel about the following... d. Physician-assisted suicide
+
+
+144) Q37E
+Q37 How do you feel about the following... e. Embryonic stem cell research
+
+
+145) Q37F
+Q37 How do you feel about the following... f. War
+
+
+146) Q38A
+Q38  To what extent do you agree or disagree with the following statements about the war in Iraq and the Middle East.. a. The United States was justified in entering Iraq
+
+
+147) Q38B
+Q38  To what extent do you agree or disagree with the following statements about the war in Iraq and the Middle East.. b. Saddam Hussein was somehow involved in the 9/11 attacks
+
+
+148) Q38C
+Q38  To what extent do you agree or disagree with the following statements about the war in Iraq and the Middle East..c. The U.S. must establish democratic order in the Middle East
+
+
+149) Q39A
+Q39  To what extent do you agree or disagree that the federal government should..a. Abolish the death penalty
+
+
+150) Q39B
+Q39  To what extent do you agree or disagree that the federal government should..b. Spend more on the military
+
+
+151) Q39C
+Q39  To what extent do you agree or disagree that the federal government should..c. Distribute wealth more evenly
+
+
+152) Q39D
+Q39  To what extent do you agree or disagree that the federal government should..d. Advocate Christian values
+
+
+153) Q39E
+Q39  To what extent do you agree or disagree that the federal government should..e. Defend Christian values
+
+
+154) Q39F
+Q39  To what extent do you agree or disagree that the federal government should..f. Regulate business practices more closely
+
+
+155) Q39G
+Q39  To what extent do you agree or disagree that the federal government should..g. Do more to protect the environment
+
+
+156) Q39H
+Q39  To what extent do you agree or disagree that the federal government should..h. Expand its authority to fight terrorism
+
+
+157) Q39I
+Q39  To what extent do you agree or disagree that the federal government should..i. Punish criminals more harshly
+
+
+158) Q39J
+Q39  To what extent do you agree or disagree that the federal government should..j. Promote affirmative action programs
+
+
+159) Q39K
+Q39  To what extent do you agree or disagree that the federal government should..k. Fund faith-based organizations
+
+
+160) Q39L
+Q39  To what extent do you agree or disagree that the federal government should..l. Allow the display of religious symbols in public spaces
+
+
+161) Q39M
+Q39  To what extent do you agree or disagree that the federal government should..m. Allow prayer in public schools
+
+
+162) Q40A
+Q40 To what extent do you agree or disagree with the following statements about the educational system and the media..a. A racist should be allowed to teach at a high school
+
+
+163) Q40B
+Q40 To what extent do you agree or disagree with the following statements about the educational system and the media..b. An atheist should be allowed to teach at a high school
+
+
+164) Q40C
+Q40 To what extent do you agree or disagree with the following statements about the educational system and the media..c. An admitted homosexual should be allowed to teach at a high school
+
+
+165) Q40D
+Q40 To what extent do you agree or disagree with the following statements about the educational system and the media..d. A Muslim should be allowed to teach at a high school
+
+
+166) Q40E
+Q40 To what extent do you agree or disagree with the following statements about the educational system and the media..e. The typical college professor is out of touch with my values
+
+
+167) Q40F
+Q40 To what extent do you agree or disagree with the following statements about the educational system and the media..f. The mainstream media is out of touch with my values
+
+
+168) Q41A
+Q41 To what extent do you agree or disagree with the following statements..a. God favors the United States in worldly affairs
+
+
+169) Q41B
+Q41 To what extent do you agree or disagree with the following statements..b. God favors one political party in the United States
+
+
+170) Q42A
+Q42 How important is it to do the following.. in order to be a good person; a. Actively seek social and economic justice
+
+
+171) Q42B
+Q42 How important is it to do the following.. in order to be a good person; b. Take care of the sick and needy
+
+
+172) Q42C
+Q42 How important is it to do the following.. in order to be a good person; c. Teach others your morals
+
+
+173) Q42D
+Q42 How important is it to do the following.. in order to be a good person; d. Convert others to your religious faith
+
+
+174) Q42E
+Q42 How important is it to do the following.. in order to be a good person; e. Serve in the military
+
+
+175) Q42F
+Q42 How important is it to do the following.. in order to be a good person; f. Consume or use fewer goods
+
+
+176) Q43A
+Q43  In the year leading up to the 2004 presidential election, did you...read newspaper or magazine stories about the election
+
+
+177) Q43B
+Q43  In the year leading up to the 2004 presidential election, did you...visit Internet sites related to the election
+
+
+178) Q43C
+Q43  In the year leading up to the 2004 presidential election, did you...give money to a political campaign/party/candidate
+
+
+179) Q43D
+Q43  In the year leading up to the 2004 presidential election, did you...write, call, or visit a public official
+
+
+180) Q43E
+Q43  In the year leading up to the 2004 presidential election, did you...attend a political rally or meeting
+
+
+181) Q43F
+Q43  In the year leading up to the 2004 presidential election, did you...attend a class or lecture about social/political issues
+
+
+182) Q43G
+Q43  In the year leading up to the 2004 presidential election, did you...participate in a public protest or demonstration
+
+
+183) Q43H
+Q43  In the year leading up to the 2004 presidential election, did you...work for a political campaign/voter registration drive
+
+
+184) Q43I
+Q43  In the year leading up to the 2004 presidential election, did you...watch or listen to a political debate
+
+
+185) Q44
+Q44  Of the final candidates, who did you want to win the 2004 presidential election
+
+
+186) Q45
+Q45  Did you vote in the 2004 presidential election
+
+
+187) Q46A
+Q46  How would you describe yourself politically (write in)
+
+
+188) Q46B
+Q46 (master)  How would you describe yourself politically
+
+
+189) Q47
+Q47  In the past year, has anyone asked you to volunteer your time
+
+
+190) Q48A
+Q48  On average, about how many hours per month do you volunteer..a. for the community, through your church
+
+
+191) Q48B
+Q48  On average, about how many hours per month do you volunteer..b. for the community, not through your church
+
+
+192) Q48C
+Q48  On average, about how many hours per month do you volunteer..c. for your church
+
+
+193) Q49AA
+Q49  Please indicate your current level of involvement with the following organizations..a. Arts or cultural organization I belong
+
+
+194) Q49AB
+Q49  Please indicate your current level of involvement with the following organizations..a. Arts or cultural organization I contribute
+
+
+195) Q49AC
+Q49  Please indicate your current level of involvement with the following organizations..a. Arts or cultural organization I volunteer
+
+
+196) Q49AD
+Q49  Please indicate your current level of involvement with the following organizations..a. Arts or cultural organization I hold a leadership position
+
+
+197) Q49BA
+Q49  Please indicate your current level of involvement with the following organizations..b. An elementary, middle, or high school I belong
+
+
+198) Q49BB
+Q49  Please indicate your current level of involvement with the following organizations..b. An elementary, middle, or high school I contribute
+
+
+199) Q49BC
+Q49  Please indicate your current level of involvement with the following organizations..b. An elementary, middle, or high school I volunteer
+
+
+200) Q49BD
+Q49  Please indicate your current level of involvement with the following organizations..b. An elementary, middle, or high school I hold a leadership position
+
+
+201) Q49CA
+Q49  Please indicate your current level of involvement with the following organizations..c. Charitable organization or group I belong
+
+
+202) Q49CB
+Q49  Please indicate your current level of involvement with the following organizations..c. Charitable organization or group I contribute
+
+
+203) Q49CC
+Q49  Please indicate your current level of involvement with the following organizations..c. Charitable organization or group I volunteer
+
+
+204) Q49CD
+Q49  Please indicate your current level of involvement with the following organizations..c. Charitable organization or group I hold a leadership position
+
+
+205) Q49DA
+Q49  Please indicate your current level of involvement with the following organizations..d. Church or other religious organization I belong
+
+
+206) Q49DB
+Q49  Please indicate your current level of involvement with the following organizations..d. Church or other religious organization I contribute
+
+
+207) Q49DC
+Q49  Please indicate your current level of involvement with the following organizations..d. Church or other religious organization I volunteer
+
+
+208) Q49DD
+Q49  Please indicate your current level of involvement with the following organizations..d. Church or other religious organization I hold a leadership position
+
+
+209) Q49EA
+Q49  Please indicate your current level of involvement with the following organizations..e. Civic or service group I belong
+
+
+210) Q49EB
+Q49  Please indicate your current level of involvement with the following organizations..e. Civic or service group I contribute
+
+
+211) Q49EC
+Q49  Please indicate your current level of involvement with the following organizations..e. Civic or service group I volunteer
+
+
+212) Q49ED
+Q49  Please indicate your current level of involvement with the following organizations..e. Civic or service group I hold a leadership position
+
+
+213) Q49FA
+Q49  Please indicate your current level of involvement with the following organizations..f. Ethnic or racial organization I belong
+
+
+214) Q49FB
+Q49  Please indicate your current level of involvement with the following organizations..f. Ethnic or racial organization I contribute
+
+
+215) Q49FC
+Q49  Please indicate your current level of involvement with the following organizations..f. Ethnic or racial organization I volunteer
+
+
+216) Q49FD
+Q49  Please indicate your current level of involvement with the following organizations..f. Ethnic or racial organization I hold a leadership position
+
+
+217) Q49GA
+Q49  Please indicate your current level of involvement with the following organizations..g. Internet-based club, group, or chat-room I belong
+
+
+218) Q49GB
+Q49  Please indicate your current level of involvement with the following organizations..g. Internet-based club, group, or chat-room I contribute
+
+
+219) Q49GC
+Q49  Please indicate your current level of involvement with the following organizations..g. Internet-based club, group, or chat-room I volunteer
+
+
+220) Q49GD
+Q49  Please indicate your current level of involvement with the following organizations..g. Internet-based club, group, or chat-room I hold a leadership position
+
+
+221) Q49HA
+Q49  Please indicate your current level of involvement with the following organizations..h. Neighborhood group or association I belong
+
+
+222) Q49HB
+Q49  Please indicate your current level of involvement with the following organizations..h. Neighborhood group or association I contribute
+
+
+223) Q49HC
+Q49  Please indicate your current level of involvement with the following organizations..h. Neighborhood group or association I volunteer
+
+
+224) Q49HD
+Q49  Please indicate your current level of involvement with the following organizations..h. Neighborhood group or association I hold a leadership position
+
+
+225) Q49IA
+Q49  Please indicate your current level of involvement with the following organizations..i. Political party, club, or association I belong
+
+
+226) Q49IB
+Q49  Please indicate your current level of involvement with the following organizations..i. Political party, club, or association I contribute
+
+
+227) Q49IC
+Q49  Please indicate your current level of involvement with the following organizations..i. Political party, club, or association I volunteer
+
+
+228) Q49ID
+Q49  Please indicate your current level of involvement with the following organizations..i. Political party, club, or association I hold a leadership position
+
+
+229) Q49JA
+Q49  Please indicate your current level of involvement with the following organizations..j. School fraternities, sororities, or alumni association I belong
+
+
+230) Q49JB
+Q49  Please indicate your current level of involvement with the following organizations..j. School fraternities, sororities, or alumni association I contribute
+
+
+231) Q49JC
+Q49  Please indicate your current level of involvement with the following organizations..j. School fraternities, sororities, or alumni association I volunteer
+
+
+232) Q49JD
+Q49  Please indicate your current level of involvement with the following organizations..j. School fraternities, sororities, or alumni association I hold a leadership position
+
+
+233) Q49KA
+Q49  Please indicate your current level of involvement with the following organizations..k. Sports, hobby, or leisure club/group I belong
+
+
+234) Q49KB
+Q49  Please indicate your current level of involvement with the following organizations..k. Sports, hobby, or leisure club/group I contribute
+
+
+235) Q49KC
+Q49  Please indicate your current level of involvement with the following organizations..k. Sports, hobby, or leisure club/group I volunteer
+
+
+236) Q49KD
+Q49  Please indicate your current level of involvement with the following organizations..k. Sports, hobby, or leisure club/group I hold a leadership position
+
+
+237) Q49LA
+Q49  Please indicate your current level of involvement with the following organizations..l. Therapeutic or counseling group I belong
+
+
+238) Q49LB
+Q49  Please indicate your current level of involvement with the following organizations..l. Therapeutic or counseling group I contribute
+
+
+239) Q49LC
+Q49  Please indicate your current level of involvement with the following organizations..l. Therapeutic or counseling group I volunteer
+
+
+240) Q49LD
+Q49  Please indicate your current level of involvement with the following organizations..l. Therapeutic or counseling group I hold a leadership position
+
+
+241) Q49MA
+Q49  Please indicate your current level of involvement with the following organizations..m. Trade union or professional association I belong
+
+
+242) Q49MB
+Q49  Please indicate your current level of involvement with the following organizations..m. Trade union or professional association I contribute
+
+
+243) Q49MC
+Q49  Please indicate your current level of involvement with the following organizations..m. Trade union or professional association I volunteer
+
+
+244) Q49MD
+Q49  Please indicate your current level of involvement with the following organizations..m. Trade union or professional association I hold a leadership position
+
+
+245) Q49NA
+Q49  Please indicate your current level of involvement with the following organizations..n. Youth groups or organizations I belong
+
+
+246) Q49NB
+Q49  Please indicate your current level of involvement with the following organizations..n. Youth groups or organizations I contribute
+
+
+247) Q49NC
+Q49  Please indicate your current level of involvement with the following organizations..n. Youth groups or organizations I volunteer
+
+
+248) Q49ND
+Q49  Please indicate your current level of involvement with the following organizations..n. Youth groups or organizations I hold a leadership position
+
+
+249) Q49OA
+Q49  Please indicate your current level of involvement with the following organizations..o. Other group/organization I belong
+
+
+250) Q49OB
+Q49  Please indicate your current level of involvement with the following organizations..o. Other group/organization I contribute
+
+
+251) Q49OC
+Q49  Please indicate your current level of involvement with the following organizations..o. Other group/organization I volunteer
+
+
+252) Q49OD
+Q49  Please indicate your current level of involvement with the following organizations..o. Other group/organization I hold a leadership position
+
+
+253) Q50A
+Q50  How much would you say that you trust the following people or groups ..a. People in general
+
+
+254) Q50B
+Q50  How much would you say that you trust the following people or groups ..b. Your neighbors
+
+
+255) Q50C
+Q50  How much would you say that you trust the following people or groups ..c. Your coworkers
+
+
+256) Q50D
+Q50  How much would you say that you trust the following people or groups ..d. Strangers
+
+
+257) Q50E
+Q50  How much would you say that you trust the following people or groups ..e. The United Nations
+
+
+258) Q50F
+Q50  How much would you say that you trust the following people or groups ..f. The U.S. government
+
+
+259) Q50G
+Q50  How much would you say that you trust the following people or groups ..g. George W. Bush
+
+
+260) Q50H
+Q50  How much would you say that you trust the following people or groups ..h. John Kerry
+
+
+261) Q50I
+Q50  How much would you say that you trust the following people or groups ..i. The media
+
+
+262) Q50J
+Q50  How much would you say that you trust the following people or groups ..j. The police
+
+
+263) Q50K
+Q50  How much would you say that you trust the following people or groups ..k. Immigrants
+
+
+264) Q50L
+Q50  How much would you say that you trust the following people or groups ..l. People of other races
+
+
+265) Q50M
+Q50  How much would you say that you trust the following people or groups ..m. People who don't believe in God
+
+
+266) Q50N
+Q50  How much would you say that you trust the following people or groups ..n. Protestants
+
+
+267) Q50O
+Q50  How much would you say that you trust the following people or groups ..o. Catholics 
+
+
+268) Q50P
+Q50  How much would you say that you trust the following people or groups ..p. Mormons
+
+
+269) Q50Q
+Q50  How much would you say that you trust the following people or groups ..q. Muslims
+
+
+270) Q51
+Q51 Gender of respondent
+
+
+271) Q52
+Q52 Age of respondent
+
+
+272) Q53
+Q53 Citizen of the USA
+
+
+273) Q54
+Q54 Spanish, Hispanic or Latino
+
+
+274) Q55
+Q55 How many children do you have?
+
+
+275) Q56
+Q56 How may children under 18 currently live in household?
+
+
+276) Q57A
+Q57 Race - are you white?
+
+
+277) Q57B
+Q57 Race - are you black/African-American?
+
+
+278) Q57C
+Q57 Race - are you American Indian/Alaska native?
+
+
+279) Q57D
+A57 Race - are you Asian?
+
+
+280) Q57E
+Q57 Race - are you native Hawaiian/other Pacific Islander?
+
+
+281) Q57F
+Q57 Race - are you other race?
+
+
+282) RACESUM
+Q57 Summary of race – for weighting
+
+
+283) Q58
+Q58 What is your current marital status?
+
+
+284) Q59
+Q59 Education of respondent
+
+
+285) Q60
+Q60 Household income
+
+
+286) Q61
+Q61 Last week did you do any work for pay or profit?
+
+
+287) Q62
+Q62 How many hours did you work last week?
+
+
+288) Q63
+Q63 Which best describes your employment?
+
+
+289) Q64A
+Q64a What is your job title? - 1
+
+
+290) Q65
+Q65 Is your current employer a locally-owned business?
+
+
+291) Q66
+Q66 If did not work last week for profit/pay what is the reason?
+
+
+292) Q67A
+Q67  When you read books about religion, from which source are you most likely to get them - 1st mention
+
+
+293) Q67B
+Q67  When you read books about religion, from which source are you most likely to get them - 3rd mention
+
+
+294) Q68A
+Q68  How many times in the past year did you..a. visit a general bookstore
+
+
+295) Q68B
+Q68  How many times in the past year did you..b. visit a Christian bookstore
+
+
+296) Q68C
+Q68  How many times in the past year did you..c. visit a New Age/metaphysical bookstore
+
+
+297) Q68D
+Q68  How many times in the past year did you..d. purchase something from a general bookstore
+
+
+298) Q68E
+Q68  How many times in the past year did you..e. purchase something from a Christian bookstore
+
+
+299) Q68F
+Q68  How many times in the past year did you..f. purchase something from a New Age/metaphysical bookstore
+
+
+300) Q69
+Q69 Have you ever chosen to use a service or business (other than a religious store), because the owner is a member of your religion
+
+
+301) Q70AA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item a. Religious jewelry, such as crucifixes or WWJD bracelets online merchant
+
+
+302) Q70AB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item a. Religious jewelry, such as crucifixes or WWJD bracelets religious store
+
+
+303) Q70AC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item a. Religious jewelry, such as crucifixes or WWJD bracelets non-religious store
+
+
+304) Q70AD
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item a. Religious jewelry, such as crucifixes or WWJD bracelets my place of worship
+
+
+305) Q70BA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item b. Religious fiction books, such as the Left Behind series online merchant
+
+
+306) Q70BB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item b. Religious fiction books, such as the Left Behind series religious store
+
+
+307) Q70BC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item b. Religious fiction books, such as the Left Behind series non-religious store
+
+
+308) Q70BD
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item b. Religious fiction books, such as the Left Behind series my place of worship
+
+
+309) Q70CA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item c. Religious non-fiction books, such as the Purpose-Driven Life online merchant
+
+
+310) Q70CB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item c. Religious non-fiction books, such as the Purpose-Driven Life religious store
+
+
+311) Q70CC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item c. Religious non-fiction books, such as the Purpose-Driven Life non-religious store
+
+
+312) Q70CD
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item c. Religious non-fiction books, such as the Purpose-Driven Life my place of worship
+
+
+313) Q70DA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item d. Devotional books, such as books of prayers online merchant
+
+
+314) Q70DB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item d. Devotional books, such as books of prayers religious store
+
+
+315) Q70DC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item d. Devotional books, such as books of prayers non-religious store
+
+
+316) Q70DD
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item d. Devotional books, such as books of prayers my place of worship
+
+
+317) Q70EA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item e. The Bible, Koran, or other sacred books online merchant
+
+
+318) Q70EB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item e. The Bible, Koran, or other sacred books religious store
+
+
+319) Q70EC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item e. The Bible, Koran, or other sacred books non-religious store
+
+
+320) Q70ED
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item e. The Bible, Koran, or other sacred books my place of worship
+
+
+321) Q70FA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item f. Music by Christian/religious artists or bands online merchant
+
+
+322) Q70FB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item f. Music by Christian/religious artists or bands religious store
+
+
+323) Q70FC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item f. Music by Christian/religious artists or bands non-religious store
+
+
+324) Q70FD
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item f. Music by Christian/religious artists or bands my place of worship
+
+
+325) Q70GA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item g. Religious art or pictures, such as portraits of Jesus or statues of religious figures online merchant
+
+
+326) Q70GB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item g. Religious art or pictures, such as portraits of Jesus or statues of religious figures religious store
+
+
+327) Q70GC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item g. Religious art or pictures, such as portraits of Jesus or statues of religious figures non-religious store
+
+
+328) Q70GD
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item g. Religious art or pictures, such as portraits of Jesus or statues of religious figures my place of worship
+
+
+329) Q70HA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item h. Movies with a religious theme or perspective, such as The Passion of the Christ online merchant
+
+
+330) Q70HB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item h. Movies with a religious theme or perspective, such as The Passion of the Christ religious store
+
+
+331) Q70HC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item h. Movies with a religious theme or perspective, such as The Passion of the Christ non-religious store
+
+
+332) Q70HD
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item h. Movies with a religious theme or perspective, such as The Passion of the Christ my place of worship
+
+
+333) Q70IA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item i. Religious education products for children online merchant
+
+
+334) Q70IB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item i. Religious education products for children religious store
+
+
+335) Q70IC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item i. Religious education products for children non-religious store
+
+
+336) Q70ID
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item i. Religious education products for children my place of worship
+
+
+337) Q70JA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item j. Bible-study or small group materials online merchant
+
+
+338) Q70JB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item j. Bible-study or small group materials religious store
+
+
+339) Q70JC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item j. Bible-study or small group materials non-religious store
+
+
+340) Q70JD
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item j. Bible-study or small group materials my place of worship
+
+
+341) Q70KA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item k. Clothing or t-shirts with religious messages online merchant
+
+
+342) Q70KB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item k. Clothing or t-shirts with religious messages religious store
+
+
+343) Q70KC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item k. Clothing or t-shirts with religious messages non-religious store
+
+
+344) Q70KD
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item k. Clothing or t-shirts with religious messages my place of worship
+
+
+345) Q70LA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item l. Bumper stickers/car decals with religious messages or symbols online merchant
+
+
+346) Q70LB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item l. Bumper stickers/car decals with religious messages or symbols religious store
+
+
+347) Q70LC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item l. Bumper stickers/car decals with religious messages or symbols non-religious store
+
+
+348) Q70LD
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item l. Bumper stickers/car decals with religious messages or symbols my place of worship
+
+
+349) Q70MA
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item m. Greeting cards with religious messages or symbols online merchant
+
+
+350) Q70MB
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item m. Greeting cards with religious messages or symbols religious store
+
+
+351) Q70MC
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item m. Greeting cards with religious messages or symbols non-religious store
+
+
+352) Q70MD
+Q70 If you purchased any of the following religiously-themed items in the past year, please indicate where you purchased the item m. Greeting cards with religious messages or symbols my place of worship
+
+
+353) Q71
+Q71 In the past month, about how much money do you think you spent on religious products (such as items in Question 70), including items purchased from your place of worship
+
+
+354) Q72A
+Q72 Have you seen any of the following movies/television shows..The Passion of the Christ
+
+
+355) Q72B
+Q72 Have you seen any of the following movies/television shows..This Is Your Day with Benny Hinn
+
+
+356) Q72C
+Q72  Have you seen any of the following movies/television shows..Joan of Arcadia
+
+
+357) Q72D
+Q72  Have you seen any of the following movies/television shows..Any Veggie Tales movies or videos
+
+
+358) Q72E
+Q72  Have you seen any of the following movies/television shows..7th Heaven
+
+
+359) Q72F
+Q72  Have you seen any of the following movies/television shows..Touched by an Angel
+
+
+360) Q73A
+Q73  Have you read any of the following books..Any book in the Left Behind series
+
+
+361) Q73B
+Q73  Have you read any of the following books..The Celestine Prophecy by James Redfield
+
+
+362) Q73C
+Q73  Have you read any of the following books..Any book about Dianetics
+
+
+363) Q73D
+Q73  Have you read any of the following books..God's Politics by Jim Wallis
+
+
+364) Q73E
+Q73  Have you read any of the following books..The Da Vinci Code by Dan Brown
+
+
+365) Q73F
+Q73  Have you read any of the following books..The Purpose-Driven Life by Rick Warren
+
+
+366) Q73G
+Q73  Have you read any of the following books..Any book by James Dobson (Focus on the Family)
+
+
+367) Q74A
+Q74  To what extent do you agree or disagree with the following statements..a. We are approaching an entirely new age that will radically change our view of science, spiritual knowledge, or humanity
+
+
+368) Q74B
+Q74  To what extent do you agree or disagree with the following statements..b. Ancient advanced civilizations, such as Atlantis, once existed
+
+
+369) Q74C
+Q74  To what extent do you agree or disagree with the following statements..c. Some alternative treatments are at least as effective as traditional medicine
+
+
+370) Q74D
+Q74  To what extent do you agree or disagree with the following statements..d. It is possible to influence the physical world through the mind alone
+
+
+371) Q74E
+Q74  To what extent do you agree or disagree with the following statements..e. Astrologers, palm-readers, tarot card readers, fortune tellers, and psychics can foresee the future
+
+
+372) Q74F
+Q74  To what extent do you agree or disagree with the following statements..f. Astrology impacts one's life and personality
+
+
+373) Q74G
+Q74  To what extent do you agree or disagree with the following statements..g. It is possible to communicate with the dead
+
+
+374) Q74H
+Q74  To what extent do you agree or disagree with the following statements..h. Places can be haunted
+
+
+375) Q74I
+Q74  To what extent do you agree or disagree with the following statements..i. Dreams sometimes foretell the future or reveal hidden truths
+
+
+376) Q74J
+Q74  To what extent do you agree or disagree with the following statements..j. Some UFOs are probably spaceships from other worlds
+
+
+377) Q74K
+Q74  To what extent do you agree or disagree with the following statements..k. Creatures such as Bigfoot and the Loch Ness Monster will one day be discovered by science
+
+
+378) Q75A
+Q75 As an adult, have you ever done any of the following...Used acupuncture or other forms of non-traditional medicine
+
+
+379) Q75B
+Q75 As an adult, have you ever done any of the following...Consulted a horoscope to get an idea about the course of your life
+
+
+380) Q75C
+Q75 As an adult, have you ever done any of the following...Called or consulted a medium, fortune teller, or psychic
+
+
+381) Q75D
+Q75 As an adult, have you ever done any of the following...Visited or lived in a house or place believed to be haunted
+
+
+382) Q75E
+Q75 As an adult, have you ever done any of the following...Consulted a Ouija board to contact a deceased person or spirit
+
+
+383) Q75F
+Q75 As an adult, have you ever done any of the following...Had a dream that later came true
+
+
+384) Q75G
+Q75 As an adult, have you ever done any of the following...Witnessed an object in the sky that you could not identify (UFO)
+
+
+385) Q76A
+Q76  Have you ever read a book, consulted a Web site, or researched the following topics..alternative medicine
+
+
+386) Q76B
+Q76  Have you ever read a book, consulted a Web site, or researched the following topics..Specific techniques for spiritual development, such as yoga
+
+
+387) Q76C
+Q76  Have you ever read a book, consulted a Web site, or researched the following topics..Mediums, fortune-tellers, or psychics
+
+
+388) Q76D
+Q76  Have you ever read a book, consulted a Web site, or researched the following topics..UFO sightings, abductions, or conspiracies
+
+
+389) Q76E
+Q76  Have you ever read a book, consulted a Web site, or researched the following topics..Ghosts, apparitions, haunted houses, or electronic voice phenomena
+
+
+390) Q76F
+Q76  Have you ever read a book, consulted a Web site, or researched the following topics..Mysterious animals, such as Bigfoot or the Loch Ness Monster
+
+
+391) Q76G
+Q76  Have you ever read a book, consulted a Web site, or researched the following topics..Astrology
+
+
+392) Q76H
+Q76  Have you ever read a book, consulted a Web site, or researched the following topics..The prophecies of Nostradamus
+
+
+393) Q76I
+Q76  Have you ever read a book, consulted a Web site, or researched the following topics..The new age movement in general
+
+
+394) Q77
+Q77  Which of the statements below best summarizes your opinion of professional astrologers, psychics, palm readers, and other people who claim to foresee the future
+
+
+395) RELTRAD2
+Religious tradition
+
+
+396) I-GENDER
+Q51 Gender of respondent (for use with online analysis)
+
+
+397) I-RACE
+Q57 Summary of race – for weighting (for use with online analysis)
+
+
+398) I-RELIGION
+Religious tradition (Recoded for use with online analysis)
+
+
+399) I-AGE
+Q52 Age of respondent (Recoded for use with online analysis)
+
+
+400) I-ATTEND
+Q5  How often do you attend religious services? (Recoded for use with online analysis)
+
+
+401) I-POLITICS
+Q44  Of the final candidates, who did you want to win the 2004 presidential election (for use with online analysis)
+
+
+402) I-EDUC
+Q59 Education of respondent (Recoded for use with online analysis)
+
+
+403) I-MARITAL
+Q58 What is your current marital status? (Recoded for use with online analysis)
+
+
+404) I-INCOME
+Q60 Household income (Recoded for use with online analysis)
+
+
